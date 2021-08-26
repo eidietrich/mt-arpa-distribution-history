@@ -1,4 +1,4 @@
-name: Scrape CDC transmission map data
+name: Scrape Montana ARPA dashbaord
 
 on:
   push:
