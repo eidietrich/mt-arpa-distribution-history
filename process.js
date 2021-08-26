@@ -11,7 +11,7 @@ const writeJson = (path, data) => {
 }
 
 
-const full = getJson('full.json')
+const full = getJson('./full.json')
 
 const data = full.features.map(d => d.attributes)
 
