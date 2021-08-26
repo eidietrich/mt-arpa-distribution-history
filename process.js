@@ -3,11 +3,10 @@ const fs = require('fs')
 const getJson = (path) => JSON.parse(fs.readFileSync(path))
 
 const writeJson = (path, data) => {
-    fs.writeFile(path, JSON.stringify(data), function (err) {
+    fs.writeFile(path, JSON.stringify(data, null, 4), function (err) {
         if (err) throw err;
         console.log('Written to', path);
-    }
-    );
+    });
 }
 
 

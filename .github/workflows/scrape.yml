@@ -1,4 +1,4 @@
-name: Scrape Montana ARPA dashbaord
+name: Scrape Montana ARPA dashboard
 
 on:
   push:
