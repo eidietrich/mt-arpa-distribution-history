@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v2
       - name: Fetch latest data
         run: |-
-          curl https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData\?id\=integrated_county_latest_external_data | jq '.' > full.json
+          curl https://services2.arcgis.com/DRQySz3VhPgOv7Bo/arcgis/rest/services/Join_Features_to_ARPA_Statewide_Counties/FeatureServer/0/query?f=json&geometry=%7B%22spatialReference%22%3A%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D%2C%22xmin%22%3A-13188964.550583346%2C%22ymin%22%3A3961894.9355050377%2C%22xmax%22%3A-11173472.988760354%2C%22ymax%22%3A7846118.964843521%7D&resultOffset=0&resultRecordCount=10000&where=1%3D1&orderByFields=OrganizationName%20ASC%2CCity%20ASC&outFields=*&resultType=standard&returnGeometry=false&spatialRel=esriSpatialRelIntersects&geometryType=esriGeometryEnvelope&inSR=102100 | jq '.' > full.json
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v2
         with:
