@@ -310,8 +310,8 @@
         "Unique_ID": "WIC_1",
         "OrganizationName": "Beaverhead County",
         "County": "BEAVERHEAD",
-        "AmountAwarded": 5220,
-        "AmountPaid": 3014.51,
+        "AmountAwarded": 6866,
+        "AmountPaid": 3925.77,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -618,8 +618,8 @@
         "Unique_ID": "WIC_2",
         "OrganizationName": "Big Horn County",
         "County": "BIG HORN",
-        "AmountAwarded": 12754,
-        "AmountPaid": 7531.82,
+        "AmountAwarded": 16470,
+        "AmountPaid": 9146.99,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -662,8 +662,8 @@
         "Unique_ID": "WIC_3",
         "OrganizationName": "Big Horn County",
         "County": "BIG HORN",
-        "AmountAwarded": 1596,
-        "AmountPaid": 562.72,
+        "AmountAwarded": 2004,
+        "AmountPaid": 638.07,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -914,7 +914,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 654
+        "ObjectId": 655
       }
     },
     {
@@ -926,8 +926,8 @@
         "Unique_ID": "WIC_4",
         "OrganizationName": "Blaine County",
         "County": "BLAINE",
-        "AmountAwarded": 1458,
-        "AmountPaid": 620.83,
+        "AmountAwarded": 1888,
+        "AmountPaid": 731.11,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -970,8 +970,8 @@
         "Unique_ID": "WIC_5",
         "OrganizationName": "Blaine County",
         "County": "BLAINE",
-        "AmountAwarded": 3070,
-        "AmountPaid": 1953.83,
+        "AmountAwarded": 26,
+        "AmountPaid": 0,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -1025,6 +1025,28 @@
         "Latitude": null,
         "Longitude": null,
         "ObjectId": 591
+      }
+    },
+    {
+      "attributes": {
+        "NAME": "BLAINE",
+        "NAMELABEL": "Blaine",
+        "Shape__Area": 10971004026.6675,
+        "Shape__Length": 513666.509449678,
+        "Unique_ID": "WIC_455",
+        "OrganizationName": "Blaine County",
+        "County": "BLAINE",
+        "AmountAwarded": 4137,
+        "AmountPaid": 2457.42,
+        "AgencyName": "DPHHS",
+        "ProgramName": "Women, Infants, & Children ",
+        "Subclass": null,
+        "Fund": null,
+        "City": "HAYS",
+        "DateofPayment": null,
+        "Latitude": null,
+        "Longitude": null,
+        "ObjectId": 596
       }
     },
     {
@@ -1134,7 +1156,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 670
+        "ObjectId": 671
       }
     },
     {
@@ -1190,8 +1212,8 @@
         "Unique_ID": "WIC_6",
         "OrganizationName": "Broadwater County",
         "County": "BROADWATER",
-        "AmountAwarded": 794,
-        "AmountPaid": 328.88,
+        "AmountAwarded": 1020,
+        "AmountPaid": 371,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -1310,7 +1332,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 722
+        "ObjectId": 723
       }
     },
     {
@@ -1366,8 +1388,8 @@
         "Unique_ID": "WIC_7",
         "OrganizationName": "Carbon County",
         "County": "CARBON",
-        "AmountAwarded": 510,
-        "AmountPaid": 298.36,
+        "AmountAwarded": 612,
+        "AmountPaid": 318.67,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -1498,8 +1520,8 @@
         "Unique_ID": "WIC_9",
         "OrganizationName": "Carbon County",
         "County": "CARBON",
-        "AmountAwarded": 1026,
-        "AmountPaid": 515.13,
+        "AmountAwarded": 1412,
+        "AmountPaid": 610.09,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -1740,8 +1762,8 @@
         "Unique_ID": "WIC_11",
         "OrganizationName": "Cascade County",
         "County": "CASCADE",
-        "AmountAwarded": 54934.25,
-        "AmountPaid": 22838.18,
+        "AmountAwarded": 73752.25,
+        "AmountPaid": 29522.03,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -2048,7 +2070,7 @@
         "Unique_ID": "WIC_13",
         "OrganizationName": "Chouteau County",
         "County": "CHOUTEAU",
-        "AmountAwarded": 570,
+        "AmountAwarded": 596,
         "AmountPaid": 319.59,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
@@ -2136,8 +2158,8 @@
         "Unique_ID": "WIC_14",
         "OrganizationName": "Chouteau County",
         "County": "CHOUTEAU",
-        "AmountAwarded": 957,
-        "AmountPaid": 574.97,
+        "AmountAwarded": 1265,
+        "AmountPaid": 705.48,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -2498,7 +2520,7 @@
         "DateofPayment": 1623650400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 652
+        "ObjectId": 653
       }
     },
     {
@@ -2652,7 +2674,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 630
+        "ObjectId": 631
       }
     },
     {
@@ -2674,7 +2696,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 737
+        "ObjectId": 738
       }
     },
     {
@@ -2872,7 +2894,7 @@
         "DateofPayment": 1623650400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 664
+        "ObjectId": 665
       }
     },
     {
@@ -2938,7 +2960,7 @@
         "DateofPayment": 1623736800000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 716
+        "ObjectId": 717
       }
     },
     {
@@ -2982,7 +3004,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 602
+        "ObjectId": 603
       }
     },
     {
@@ -3048,7 +3070,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 701
+        "ObjectId": 702
       }
     },
     {
@@ -3180,7 +3202,7 @@
         "DateofPayment": 1623909600000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 644
+        "ObjectId": 645
       }
     },
     {
@@ -3202,7 +3224,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 616
+        "ObjectId": 617
       }
     },
     {
@@ -3224,7 +3246,7 @@
         "DateofPayment": 1623736800000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 747
+        "ObjectId": 748
       }
     },
     {
@@ -3312,7 +3334,7 @@
         "DateofPayment": 1623650400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 718
+        "ObjectId": 719
       }
     },
     {
@@ -3356,7 +3378,7 @@
         "DateofPayment": 1623909600000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 665
+        "ObjectId": 666
       }
     },
     {
@@ -3444,7 +3466,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 666
+        "ObjectId": 667
       }
     },
     {
@@ -3588,8 +3610,8 @@
         "Unique_ID": "WIC_15",
         "OrganizationName": "Custer County",
         "County": "CUSTER",
-        "AmountAwarded": 9668,
-        "AmountPaid": 4876.8,
+        "AmountAwarded": 12698,
+        "AmountPaid": 6109.6,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -3664,7 +3686,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 648
+        "ObjectId": 649
       }
     },
     {
@@ -3686,7 +3708,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 649
+        "ObjectId": 650
       }
     },
     {
@@ -3698,8 +3720,8 @@
         "Unique_ID": "WIC_16",
         "OrganizationName": "Daniels County",
         "County": "DANIELS",
-        "AmountAwarded": 410,
-        "AmountPaid": 228.87,
+        "AmountAwarded": 514,
+        "AmountPaid": 290.43,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -3708,7 +3730,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 647
+        "ObjectId": 648
       }
     },
     {
@@ -3730,7 +3752,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 650
+        "ObjectId": 651
       }
     },
     {
@@ -3752,7 +3774,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 651
+        "ObjectId": 652
       }
     },
     {
@@ -3774,7 +3796,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 646
+        "ObjectId": 647
       }
     },
     {
@@ -3786,8 +3808,8 @@
         "Unique_ID": "WIC_17",
         "OrganizationName": "Dawsom County",
         "County": "DAWSON",
-        "AmountAwarded": 5070,
-        "AmountPaid": 2886.17,
+        "AmountAwarded": 6653,
+        "AmountPaid": 3768.84,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -3796,7 +3818,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 743
+        "ObjectId": 744
       }
     },
     {
@@ -3818,7 +3840,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 744
+        "ObjectId": 745
       }
     },
     {
@@ -3840,7 +3862,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 745
+        "ObjectId": 746
       }
     },
     {
@@ -3862,7 +3884,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 746
+        "ObjectId": 747
       }
     },
     {
@@ -3874,8 +3896,8 @@
         "Unique_ID": "WIC_18",
         "OrganizationName": "Deer Lodge County",
         "County": "DEER LODGE",
-        "AmountAwarded": 3474,
-        "AmountPaid": 2003.07,
+        "AmountAwarded": 4908,
+        "AmountPaid": 2740.48,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -3950,7 +3972,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 740
+        "ObjectId": 741
       }
     },
     {
@@ -4830,7 +4852,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 606
+        "ObjectId": 607
       }
     },
     {
@@ -4852,7 +4874,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 619
+        "ObjectId": 620
       }
     },
     {
@@ -4874,7 +4896,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 632
+        "ObjectId": 633
       }
     },
     {
@@ -4896,7 +4918,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 656
+        "ObjectId": 657
       }
     },
     {
@@ -4918,7 +4940,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 675
+        "ObjectId": 676
       }
     },
     {
@@ -4940,7 +4962,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 704
+        "ObjectId": 705
       }
     },
     {
@@ -4962,7 +4984,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 724
+        "ObjectId": 725
       }
     },
     {
@@ -4984,7 +5006,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 742
+        "ObjectId": 743
       }
     },
     {
@@ -5006,7 +5028,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 752
+        "ObjectId": 753
       }
     },
     {
@@ -5040,8 +5062,8 @@
         "Unique_ID": "WIC_19",
         "OrganizationName": "Fallon County",
         "County": "FALLON",
-        "AmountAwarded": 586,
-        "AmountPaid": 402.95,
+        "AmountAwarded": 816,
+        "AmountPaid": 522.03,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -5216,8 +5238,8 @@
         "Unique_ID": "WIC_20",
         "OrganizationName": "Fergus County",
         "County": "FERGUS",
-        "AmountAwarded": 7687.69,
-        "AmountPaid": 4281.85,
+        "AmountAwarded": 10657.12,
+        "AmountPaid": 5657.15,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -5326,8 +5348,8 @@
         "Unique_ID": "WIC_21",
         "OrganizationName": "Flathead County",
         "County": "FLATHEAD",
-        "AmountAwarded": 596,
-        "AmountPaid": 223.21,
+        "AmountAwarded": 962,
+        "AmountPaid": 328.02,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -5336,7 +5358,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 676
+        "ObjectId": 677
       }
     },
     {
@@ -5358,7 +5380,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 682
+        "ObjectId": 683
       }
     },
     {
@@ -5370,8 +5392,8 @@
         "Unique_ID": "WIC_22",
         "OrganizationName": "Flathead County",
         "County": "FLATHEAD",
-        "AmountAwarded": 7522,
-        "AmountPaid": 3845.6,
+        "AmountAwarded": 9690,
+        "AmountPaid": 4893.41,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -5380,7 +5402,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 677
+        "ObjectId": 678
       }
     },
     {
@@ -5402,7 +5424,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 683
+        "ObjectId": 684
       }
     },
     {
@@ -5424,7 +5446,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 684
+        "ObjectId": 685
       }
     },
     {
@@ -5446,7 +5468,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 685
+        "ObjectId": 686
       }
     },
     {
@@ -5468,7 +5490,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 686
+        "ObjectId": 687
       }
     },
     {
@@ -5480,7 +5502,7 @@
         "Unique_ID": "WIC_23",
         "OrganizationName": "Flathead County",
         "County": "FLATHEAD",
-        "AmountAwarded": 258,
+        "AmountAwarded": 308,
         "AmountPaid": 42.87,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
@@ -5490,7 +5512,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 678
+        "ObjectId": 679
       }
     },
     {
@@ -5512,7 +5534,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 687
+        "ObjectId": 688
       }
     },
     {
@@ -5524,8 +5546,8 @@
         "Unique_ID": "WIC_24",
         "OrganizationName": "Flathead County",
         "County": "FLATHEAD",
-        "AmountAwarded": 37972.52,
-        "AmountPaid": 17718.07,
+        "AmountAwarded": 50631.52,
+        "AmountPaid": 22529.63,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -5534,7 +5556,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 679
+        "ObjectId": 680
       }
     },
     {
@@ -5556,7 +5578,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 688
+        "ObjectId": 689
       }
     },
     {
@@ -5578,7 +5600,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 689
+        "ObjectId": 690
       }
     },
     {
@@ -5590,8 +5612,8 @@
         "Unique_ID": "WIC_25",
         "OrganizationName": "Flathead County",
         "County": "FLATHEAD",
-        "AmountAwarded": 1036,
-        "AmountPaid": 366.79,
+        "AmountAwarded": 1414,
+        "AmountPaid": 395.67,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -5600,7 +5622,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 680
+        "ObjectId": 681
       }
     },
     {
@@ -5622,7 +5644,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 690
+        "ObjectId": 691
       }
     },
     {
@@ -5644,7 +5666,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 691
+        "ObjectId": 692
       }
     },
     {
@@ -5666,7 +5688,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 692
+        "ObjectId": 693
       }
     },
     {
@@ -5688,7 +5710,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 693
+        "ObjectId": 694
       }
     },
     {
@@ -5710,7 +5732,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 694
+        "ObjectId": 695
       }
     },
     {
@@ -5732,7 +5754,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 695
+        "ObjectId": 696
       }
     },
     {
@@ -5754,7 +5776,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 696
+        "ObjectId": 697
       }
     },
     {
@@ -5776,7 +5798,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 697
+        "ObjectId": 698
       }
     },
     {
@@ -5788,8 +5810,8 @@
         "Unique_ID": "WIC_26",
         "OrganizationName": "Flathead County",
         "County": "FLATHEAD",
-        "AmountAwarded": 2306,
-        "AmountPaid": 1123.07,
+        "AmountAwarded": 3158,
+        "AmountPaid": 1576.08,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -5798,7 +5820,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 681
+        "ObjectId": 682
       }
     },
     {
@@ -5820,7 +5842,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 698
+        "ObjectId": 699
       }
     },
     {
@@ -5854,8 +5876,8 @@
         "Unique_ID": "WIC_27",
         "OrganizationName": "Gallatin County",
         "County": "GALLATIN",
-        "AmountAwarded": 8371,
-        "AmountPaid": 4253.41,
+        "AmountAwarded": 11222,
+        "AmountPaid": 5325.15,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -5920,8 +5942,8 @@
         "Unique_ID": "WIC_28",
         "OrganizationName": "Gallatin County",
         "County": "GALLATIN",
-        "AmountAwarded": 25278,
-        "AmountPaid": 10721.73,
+        "AmountAwarded": 34436,
+        "AmountPaid": 14055.1,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -5986,8 +6008,8 @@
         "Unique_ID": "WIC_29",
         "OrganizationName": "Gallatin County",
         "County": "GALLATIN",
-        "AmountAwarded": 52,
-        "AmountPaid": 26,
+        "AmountAwarded": 128,
+        "AmountPaid": 72.76,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -6030,8 +6052,8 @@
         "Unique_ID": "WIC_30",
         "OrganizationName": "Gallatin County",
         "County": "GALLATIN",
-        "AmountAwarded": 980,
-        "AmountPaid": 309.86,
+        "AmountAwarded": 1266,
+        "AmountPaid": 379.76,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -6074,8 +6096,8 @@
         "Unique_ID": "WIC_31",
         "OrganizationName": "Gallatin County",
         "County": "GALLATIN",
-        "AmountAwarded": 750,
-        "AmountPaid": 509.03,
+        "AmountAwarded": 956,
+        "AmountPaid": 656.07,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -6184,8 +6206,8 @@
         "Unique_ID": "WIC_32",
         "OrganizationName": "Garfield County",
         "County": "GARFIELD",
-        "AmountAwarded": 102,
-        "AmountPaid": 45.65,
+        "AmountAwarded": 152,
+        "AmountPaid": 72.17,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -6304,7 +6326,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 655
+        "ObjectId": 656
       }
     },
     {
@@ -6326,7 +6348,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 659
+        "ObjectId": 660
       }
     },
     {
@@ -6338,8 +6360,8 @@
         "Unique_ID": "WIC_33",
         "OrganizationName": "Glacier County",
         "County": "GLACIER",
-        "AmountAwarded": 15956.5,
-        "AmountPaid": 6342.92,
+        "AmountAwarded": 20323.5,
+        "AmountPaid": 7539.2,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -6348,7 +6370,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 657
+        "ObjectId": 658
       }
     },
     {
@@ -6370,7 +6392,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 660
+        "ObjectId": 661
       }
     },
     {
@@ -6382,8 +6404,8 @@
         "Unique_ID": "WIC_34",
         "OrganizationName": "Glacier County",
         "County": "GLACIER",
-        "AmountAwarded": 6809,
-        "AmountPaid": 3347.5,
+        "AmountAwarded": 9141,
+        "AmountPaid": 4347.89,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -6392,7 +6414,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 658
+        "ObjectId": 659
       }
     },
     {
@@ -6414,7 +6436,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 661
+        "ObjectId": 662
       }
     },
     {
@@ -6436,7 +6458,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 662
+        "ObjectId": 663
       }
     },
     {
@@ -6458,7 +6480,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 663
+        "ObjectId": 664
       }
     },
     {
@@ -6480,7 +6502,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 739
+        "ObjectId": 740
       }
     },
     {
@@ -6502,7 +6524,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 741
+        "ObjectId": 742
       }
     },
     {
@@ -6568,7 +6590,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 721
+        "ObjectId": 722
       }
     },
     {
@@ -6678,7 +6700,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 672
+        "ObjectId": 673
       }
     },
     {
@@ -6700,7 +6722,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 605
+        "ObjectId": 606
       }
     },
     {
@@ -6712,8 +6734,8 @@
         "Unique_ID": "WIC_35",
         "OrganizationName": "Hill County",
         "County": "HILL",
-        "AmountAwarded": 818,
-        "AmountPaid": 107.88,
+        "AmountAwarded": 944,
+        "AmountPaid": 115.88,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -6778,8 +6800,8 @@
         "Unique_ID": "WIC_36",
         "OrganizationName": "Hill County",
         "County": "HILL",
-        "AmountAwarded": 13045.72,
-        "AmountPaid": 6676.44,
+        "AmountAwarded": 17235.72,
+        "AmountPaid": 8437.73,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -7008,7 +7030,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 671
+        "ObjectId": 672
       }
     },
     {
@@ -7086,8 +7108,8 @@
         "Unique_ID": "WIC_37",
         "OrganizationName": "Jefferson County",
         "County": "JEFFERSON",
-        "AmountAwarded": 458,
-        "AmountPaid": 128.15,
+        "AmountAwarded": 560,
+        "AmountPaid": 151.53,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -7218,8 +7240,8 @@
         "Unique_ID": "WIC_38",
         "OrganizationName": "Jefferson County",
         "County": "JEFFERSON",
-        "AmountAwarded": 990,
-        "AmountPaid": 457.58,
+        "AmountAwarded": 1268,
+        "AmountPaid": 603.49,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -7350,8 +7372,8 @@
         "Unique_ID": "WIC_39",
         "OrganizationName": "Judith Basin County",
         "County": "JUDITH BASIN",
-        "AmountAwarded": 280,
-        "AmountPaid": 121.32,
+        "AmountAwarded": 432,
+        "AmountPaid": 124.64,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -7394,8 +7416,8 @@
         "Unique_ID": "WIC_40",
         "OrganizationName": "Lake County",
         "County": "LAKE",
-        "AmountAwarded": 692,
-        "AmountPaid": 159.98,
+        "AmountAwarded": 844,
+        "AmountPaid": 205.31,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -7460,8 +7482,8 @@
         "Unique_ID": "WIC_41",
         "OrganizationName": "Lake County",
         "County": "LAKE",
-        "AmountAwarded": 78,
-        "AmountPaid": 13.37,
+        "AmountAwarded": 130,
+        "AmountPaid": 31.03,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -7570,8 +7592,8 @@
         "Unique_ID": "WIC_42",
         "OrganizationName": "Lake County",
         "County": "LAKE",
-        "AmountAwarded": 1717,
-        "AmountPaid": 685.1,
+        "AmountAwarded": 2147,
+        "AmountPaid": 748.58,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -7614,8 +7636,8 @@
         "Unique_ID": "WIC_43",
         "OrganizationName": "Lake County",
         "County": "LAKE",
-        "AmountAwarded": 16354.5,
-        "AmountPaid": 6675.3,
+        "AmountAwarded": 21233.5,
+        "AmountPaid": 8505.93,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -7724,8 +7746,8 @@
         "Unique_ID": "WIC_44",
         "OrganizationName": "Lake County",
         "County": "LAKE",
-        "AmountAwarded": 4608.5,
-        "AmountPaid": 1783.46,
+        "AmountAwarded": 6185.5,
+        "AmountPaid": 2243.99,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -7790,8 +7812,8 @@
         "Unique_ID": "WIC_45",
         "OrganizationName": "Lake County",
         "County": "LAKE",
-        "AmountAwarded": 2684,
-        "AmountPaid": 1479.26,
+        "AmountAwarded": 3532,
+        "AmountPaid": 1809.07,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -7822,7 +7844,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 668
+        "ObjectId": 669
       }
     },
     {
@@ -7944,8 +7966,8 @@
         "Unique_ID": "WIC_47",
         "OrganizationName": "Lewis and Clark County",
         "County": "LEWIS AND CLARK",
-        "AmountAwarded": 1184,
-        "AmountPaid": 392.44,
+        "AmountAwarded": 1686,
+        "AmountPaid": 492.94,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -8010,8 +8032,8 @@
         "Unique_ID": "WIC_48",
         "OrganizationName": "Lewis and Clark County",
         "County": "LEWIS AND CLARK",
-        "AmountAwarded": 33047,
-        "AmountPaid": 12982.81,
+        "AmountAwarded": 43680,
+        "AmountPaid": 16395.99,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -8054,8 +8076,8 @@
         "Unique_ID": "WIC_49",
         "OrganizationName": "Lewis and Clark County",
         "County": "LEWIS AND CLARK",
-        "AmountAwarded": 24,
-        "AmountPaid": 0,
+        "AmountAwarded": 74,
+        "AmountPaid": 0.33,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -8152,7 +8174,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 723
+        "ObjectId": 724
       }
     },
     {
@@ -8164,8 +8186,8 @@
         "Unique_ID": "WIC_50",
         "OrganizationName": "Liberty County",
         "County": "LIBERTY",
-        "AmountAwarded": 578,
-        "AmountPaid": 287.01,
+        "AmountAwarded": 680,
+        "AmountPaid": 315.56,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -8174,7 +8196,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 598
+        "ObjectId": 599
       }
     },
     {
@@ -8196,7 +8218,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 599
+        "ObjectId": 600
       }
     },
     {
@@ -8218,7 +8240,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 600
+        "ObjectId": 601
       }
     },
     {
@@ -8240,7 +8262,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 601
+        "ObjectId": 602
       }
     },
     {
@@ -8262,7 +8284,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 597
+        "ObjectId": 598
       }
     },
     {
@@ -8274,8 +8296,8 @@
         "Unique_ID": "WIC_51",
         "OrganizationName": "Lincoln County",
         "County": "LINCOLN",
-        "AmountAwarded": 2881,
-        "AmountPaid": 1505.63,
+        "AmountAwarded": 3981,
+        "AmountPaid": 1979.38,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -8284,7 +8306,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 725
+        "ObjectId": 726
       }
     },
     {
@@ -8306,7 +8328,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 729
+        "ObjectId": 730
       }
     },
     {
@@ -8328,7 +8350,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 726
+        "ObjectId": 727
       }
     },
     {
@@ -8350,7 +8372,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 730
+        "ObjectId": 731
       }
     },
     {
@@ -8362,8 +8384,8 @@
         "Unique_ID": "WIC_53",
         "OrganizationName": "Lincoln County",
         "County": "LINCOLN",
-        "AmountAwarded": 7750,
-        "AmountPaid": 5062.69,
+        "AmountAwarded": 10379,
+        "AmountPaid": 6492.29,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -8372,7 +8394,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 727
+        "ObjectId": 728
       }
     },
     {
@@ -8394,7 +8416,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 731
+        "ObjectId": 732
       }
     },
     {
@@ -8416,7 +8438,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 732
+        "ObjectId": 733
       }
     },
     {
@@ -8438,7 +8460,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 733
+        "ObjectId": 734
       }
     },
     {
@@ -8460,7 +8482,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 734
+        "ObjectId": 735
       }
     },
     {
@@ -8472,8 +8494,8 @@
         "Unique_ID": "WIC_54",
         "OrganizationName": "Lincoln County",
         "County": "LINCOLN",
-        "AmountAwarded": 1848,
-        "AmountPaid": 1016.96,
+        "AmountAwarded": 2511,
+        "AmountPaid": 1214.83,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -8482,7 +8504,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 728
+        "ObjectId": 729
       }
     },
     {
@@ -8504,7 +8526,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 735
+        "ObjectId": 736
       }
     },
     {
@@ -8736,8 +8758,8 @@
         "Unique_ID": "WIC_56",
         "OrganizationName": "Madison County",
         "County": "MADISON",
-        "AmountAwarded": 258,
-        "AmountPaid": 129.92,
+        "AmountAwarded": 414,
+        "AmountPaid": 168.4,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -8802,7 +8824,7 @@
         "Unique_ID": "WIC_57",
         "OrganizationName": "Madison County",
         "County": "MADISON",
-        "AmountAwarded": 154,
+        "AmountAwarded": 204,
         "AmountPaid": 73.93,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
@@ -8890,8 +8912,8 @@
         "Unique_ID": "WIC_12",
         "OrganizationName": "Malmstrom Air Force Base",
         "County": "CASCADE",
-        "AmountAwarded": 984,
-        "AmountPaid": 295.82,
+        "AmountAwarded": 1284,
+        "AmountPaid": 370.07,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -8944,7 +8966,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 618
+        "ObjectId": 619
       }
     },
     {
@@ -8978,8 +9000,8 @@
         "Unique_ID": "WIC_58",
         "OrganizationName": "McCone County",
         "County": "MCCONE",
-        "AmountAwarded": 76,
-        "AmountPaid": 36.68,
+        "AmountAwarded": 126,
+        "AmountPaid": 85.08,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -9088,8 +9110,8 @@
         "Unique_ID": "WIC_59",
         "OrganizationName": "Meagher County",
         "County": "MEAGHER",
-        "AmountAwarded": 256,
-        "AmountPaid": 102.29,
+        "AmountAwarded": 339,
+        "AmountPaid": 152.83,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -9242,8 +9264,8 @@
         "Unique_ID": "WIC_60",
         "OrganizationName": "Mineral County",
         "County": "MINERAL",
-        "AmountAwarded": 1381,
-        "AmountPaid": 743.19,
+        "AmountAwarded": 1965,
+        "AmountPaid": 1044.73,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -9330,8 +9352,8 @@
         "Unique_ID": "WIC_61",
         "OrganizationName": "Missoula County",
         "County": "MISSOULA",
-        "AmountAwarded": 974,
-        "AmountPaid": 250.99,
+        "AmountAwarded": 1312,
+        "AmountPaid": 413.72,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -9396,8 +9418,8 @@
         "Unique_ID": "WIC_62",
         "OrganizationName": "Missoula County",
         "County": "MISSOULA",
-        "AmountAwarded": 482,
-        "AmountPaid": 174.97,
+        "AmountAwarded": 558,
+        "AmountPaid": 205.07,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -9484,8 +9506,8 @@
         "Unique_ID": "WIC_63",
         "OrganizationName": "Missoula County",
         "County": "MISSOULA",
-        "AmountAwarded": 1288,
-        "AmountPaid": 398.76,
+        "AmountAwarded": 1828,
+        "AmountPaid": 558.76,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -9550,8 +9572,8 @@
         "Unique_ID": "WIC_64",
         "OrganizationName": "Missoula County",
         "County": "MISSOULA",
-        "AmountAwarded": 69896,
-        "AmountPaid": 26850.9,
+        "AmountAwarded": 93048,
+        "AmountPaid": 34681.59,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -9616,8 +9638,8 @@
         "Unique_ID": "WIC_65",
         "OrganizationName": "Missoula County",
         "County": "MISSOULA",
-        "AmountAwarded": 1326,
-        "AmountPaid": 667.99,
+        "AmountAwarded": 1680,
+        "AmountPaid": 740.76,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -9714,7 +9736,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 669
+        "ObjectId": 670
       }
     },
     {
@@ -9814,8 +9836,8 @@
         "Unique_ID": "WIC_66",
         "OrganizationName": "Musselshell County",
         "County": "MUSSELSHELL",
-        "AmountAwarded": 1487,
-        "AmountPaid": 669.69,
+        "AmountAwarded": 1841,
+        "AmountPaid": 794.32,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -9868,7 +9890,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 673
+        "ObjectId": 674
       }
     },
     {
@@ -9924,8 +9946,8 @@
         "Unique_ID": "WIC_67",
         "OrganizationName": "Park County",
         "County": "PARK",
-        "AmountAwarded": 102,
-        "AmountPaid": 15.48,
+        "AmountAwarded": 152,
+        "AmountPaid": 22.46,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -10034,8 +10056,8 @@
         "Unique_ID": "WIC_68",
         "OrganizationName": "Park County",
         "County": "PARK",
-        "AmountAwarded": 5184,
-        "AmountPaid": 2709.18,
+        "AmountAwarded": 6956,
+        "AmountPaid": 3380.38,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -10232,8 +10254,8 @@
         "Unique_ID": "WIC_69",
         "OrganizationName": "Petroleum County",
         "County": "PETROLEUM",
-        "AmountAwarded": 24,
-        "AmountPaid": 2.25,
+        "AmountAwarded": 48,
+        "AmountPaid": 4.25,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -10286,7 +10308,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 609
+        "ObjectId": 610
       }
     },
     {
@@ -10308,7 +10330,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 610
+        "ObjectId": 611
       }
     },
     {
@@ -10320,8 +10342,8 @@
         "Unique_ID": "WIC_70",
         "OrganizationName": "Phillips County",
         "County": "PHILLIPS",
-        "AmountAwarded": 2200,
-        "AmountPaid": 1479.77,
+        "AmountAwarded": 2990,
+        "AmountPaid": 1860.59,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -10330,7 +10352,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 607
+        "ObjectId": 608
       }
     },
     {
@@ -10352,7 +10374,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 611
+        "ObjectId": 612
       }
     },
     {
@@ -10374,7 +10396,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 612
+        "ObjectId": 613
       }
     },
     {
@@ -10396,7 +10418,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 613
+        "ObjectId": 614
       }
     },
     {
@@ -10418,7 +10440,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 608
+        "ObjectId": 609
       }
     },
     {
@@ -10440,7 +10462,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 614
+        "ObjectId": 615
       }
     },
     {
@@ -10540,8 +10562,8 @@
         "Unique_ID": "WIC_72",
         "OrganizationName": "Pondera County",
         "County": "PONDERA",
-        "AmountAwarded": 6436,
-        "AmountPaid": 2727.94,
+        "AmountAwarded": 8121,
+        "AmountPaid": 3216.23,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -10650,7 +10672,7 @@
         "Unique_ID": "WIC_73",
         "OrganizationName": "Pondera County",
         "County": "PONDERA",
-        "AmountAwarded": 26,
+        "AmountAwarded": 78,
         "AmountPaid": 0,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
@@ -10760,8 +10782,8 @@
         "Unique_ID": "WIC_74",
         "OrganizationName": "Powder River County",
         "County": "POWDER RIVER",
-        "AmountAwarded": 358,
-        "AmountPaid": 223.34,
+        "AmountAwarded": 512,
+        "AmountPaid": 260.89,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -10892,8 +10914,8 @@
         "Unique_ID": "WIC_75",
         "OrganizationName": "Powell County",
         "County": "POWELL",
-        "AmountAwarded": 2261,
-        "AmountPaid": 1311.54,
+        "AmountAwarded": 3139,
+        "AmountPaid": 1642.23,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -11178,8 +11200,8 @@
         "Unique_ID": "WIC_77",
         "OrganizationName": "Ravalli County",
         "County": "RAVALLI",
-        "AmountAwarded": 966,
-        "AmountPaid": 463.27,
+        "AmountAwarded": 1270,
+        "AmountPaid": 576.59,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -11222,8 +11244,8 @@
         "Unique_ID": "WIC_78",
         "OrganizationName": "Ravalli County",
         "County": "RAVALLI",
-        "AmountAwarded": 2048,
-        "AmountPaid": 946.85,
+        "AmountAwarded": 2632,
+        "AmountPaid": 1174.47,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -11288,8 +11310,8 @@
         "Unique_ID": "WIC_79",
         "OrganizationName": "Ravalli County",
         "County": "RAVALLI",
-        "AmountAwarded": 11664,
-        "AmountPaid": 5863.42,
+        "AmountAwarded": 15524,
+        "AmountPaid": 7342.99,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -11354,8 +11376,8 @@
         "Unique_ID": "WIC_80",
         "OrganizationName": "Ravalli County",
         "County": "RAVALLI",
-        "AmountAwarded": 5818,
-        "AmountPaid": 3483.62,
+        "AmountAwarded": 7780,
+        "AmountPaid": 4383.05,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -12024,7 +12046,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 643
+        "ObjectId": 644
       }
     },
     {
@@ -12046,7 +12068,7 @@
         "DateofPayment": 1627603200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 653
+        "ObjectId": 654
       }
     },
     {
@@ -12068,7 +12090,7 @@
         "DateofPayment": 1627603200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 667
+        "ObjectId": 668
       }
     },
     {
@@ -12090,7 +12112,7 @@
         "DateofPayment": 1627603200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 720
+        "ObjectId": 721
       }
     },
     {
@@ -12112,7 +12134,7 @@
         "DateofPayment": 1627603200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 738
+        "ObjectId": 739
       }
     },
     {
@@ -12134,7 +12156,7 @@
         "DateofPayment": 1627603200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 749
+        "ObjectId": 750
       }
     },
     {
@@ -12156,7 +12178,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 755
+        "ObjectId": 756
       }
     },
     {
@@ -12168,8 +12190,8 @@
         "Unique_ID": "WIC_81",
         "OrganizationName": "Richland County",
         "County": "RICHLAND",
-        "AmountAwarded": 154,
-        "AmountPaid": 10.2,
+        "AmountAwarded": 206,
+        "AmountPaid": 14.75,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -12178,7 +12200,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 753
+        "ObjectId": 754
       }
     },
     {
@@ -12200,7 +12222,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 756
+        "ObjectId": 757
       }
     },
     {
@@ -12222,7 +12244,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 757
+        "ObjectId": 758
       }
     },
     {
@@ -12244,7 +12266,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 758
+        "ObjectId": 759
       }
     },
     {
@@ -12256,8 +12278,8 @@
         "Unique_ID": "WIC_82",
         "OrganizationName": "Richland County",
         "County": "RICHLAND",
-        "AmountAwarded": 5288,
-        "AmountPaid": 3041.96,
+        "AmountAwarded": 7229,
+        "AmountPaid": 3937.21,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -12266,7 +12288,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 754
+        "ObjectId": 755
       }
     },
     {
@@ -12288,7 +12310,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 759
+        "ObjectId": 760
       }
     },
     {
@@ -12388,8 +12410,8 @@
         "Unique_ID": "WIC_83",
         "OrganizationName": "Roosevelt County",
         "County": "ROOSEVELT",
-        "AmountAwarded": 460,
-        "AmountPaid": 135.99,
+        "AmountAwarded": 612,
+        "AmountPaid": 153.25,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -12454,8 +12476,8 @@
         "Unique_ID": "WIC_84",
         "OrganizationName": "Roosevelt County",
         "County": "ROOSEVELT",
-        "AmountAwarded": 3106,
-        "AmountPaid": 1172.88,
+        "AmountAwarded": 4020,
+        "AmountPaid": 1374.3,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -12498,8 +12520,8 @@
         "Unique_ID": "WIC_85",
         "OrganizationName": "Roosevelt County",
         "County": "ROOSEVELT",
-        "AmountAwarded": 5312,
-        "AmountPaid": 3440.31,
+        "AmountAwarded": 7070,
+        "AmountPaid": 4160.78,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -12564,8 +12586,8 @@
         "Unique_ID": "WIC_86",
         "OrganizationName": "Rosebud County",
         "County": "ROSEBUD",
-        "AmountAwarded": 862,
-        "AmountPaid": 344.28,
+        "AmountAwarded": 1040,
+        "AmountPaid": 378.68,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -12630,8 +12652,8 @@
         "Unique_ID": "WIC_87",
         "OrganizationName": "Rosebud County",
         "County": "ROSEBUD",
-        "AmountAwarded": 3066,
-        "AmountPaid": 1513.79,
+        "AmountAwarded": 4040,
+        "AmountPaid": 1974.85,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -12674,8 +12696,8 @@
         "Unique_ID": "WIC_88",
         "OrganizationName": "Rosebud County",
         "County": "ROSEBUD",
-        "AmountAwarded": 1162,
-        "AmountPaid": 591.46,
+        "AmountAwarded": 1600,
+        "AmountPaid": 750.99,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -12740,8 +12762,8 @@
         "Unique_ID": "WIC_89",
         "OrganizationName": "Rosebud County",
         "County": "ROSEBUD",
-        "AmountAwarded": 7367.29,
-        "AmountPaid": 3936.42,
+        "AmountAwarded": 9119.29,
+        "AmountPaid": 4608.36,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -12938,8 +12960,8 @@
         "Unique_ID": "WIC_90",
         "OrganizationName": "Sanders County",
         "County": "SANDERS",
-        "AmountAwarded": 276,
-        "AmountPaid": 158.74,
+        "AmountAwarded": 452,
+        "AmountPaid": 217.04,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -13070,8 +13092,8 @@
         "Unique_ID": "WIC_91",
         "OrganizationName": "Sanders County",
         "County": "SANDERS",
-        "AmountAwarded": 1162,
-        "AmountPaid": 650.8,
+        "AmountAwarded": 1475,
+        "AmountPaid": 791.66,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -13114,8 +13136,8 @@
         "Unique_ID": "WIC_92",
         "OrganizationName": "Sanders County",
         "County": "SANDERS",
-        "AmountAwarded": 2508,
-        "AmountPaid": 1645.83,
+        "AmountAwarded": 3374,
+        "AmountPaid": 2132.72,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -13158,8 +13180,8 @@
         "Unique_ID": "WIC_93",
         "OrganizationName": "Sanders County",
         "County": "SANDERS",
-        "AmountAwarded": 334,
-        "AmountPaid": 156.97,
+        "AmountAwarded": 412,
+        "AmountPaid": 176.99,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -13212,7 +13234,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 706
+        "ObjectId": 707
       }
     },
     {
@@ -13234,7 +13256,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 707
+        "ObjectId": 708
       }
     },
     {
@@ -13256,7 +13278,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 708
+        "ObjectId": 709
       }
     },
     {
@@ -13278,7 +13300,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 709
+        "ObjectId": 710
       }
     },
     {
@@ -13300,7 +13322,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 710
+        "ObjectId": 711
       }
     },
     {
@@ -13312,8 +13334,8 @@
         "Unique_ID": "WIC_94",
         "OrganizationName": "Sheridan County",
         "County": "SHERIDAN",
-        "AmountAwarded": 1486,
-        "AmountPaid": 1004.49,
+        "AmountAwarded": 1970,
+        "AmountPaid": 1277.94,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -13322,7 +13344,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 705
+        "ObjectId": 706
       }
     },
     {
@@ -13344,7 +13366,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 711
+        "ObjectId": 712
       }
     },
     {
@@ -13366,7 +13388,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 712
+        "ObjectId": 713
       }
     },
     {
@@ -13388,7 +13410,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 713
+        "ObjectId": 714
       }
     },
     {
@@ -13410,7 +13432,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 714
+        "ObjectId": 715
       }
     },
     {
@@ -13432,7 +13454,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 715
+        "ObjectId": 716
       }
     },
     {
@@ -13454,7 +13476,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 703
+        "ObjectId": 704
       }
     },
     {
@@ -13476,7 +13498,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 750
+        "ObjectId": 751
       }
     },
     {
@@ -13498,7 +13520,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 751
+        "ObjectId": 752
       }
     },
     {
@@ -13510,8 +13532,8 @@
         "Unique_ID": "WIC_95",
         "OrganizationName": "Silver Bow County",
         "County": "SILVER BOW",
-        "AmountAwarded": 24415,
-        "AmountPaid": 11633.51,
+        "AmountAwarded": 32532,
+        "AmountPaid": 14787.87,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -13686,8 +13708,8 @@
         "Unique_ID": "WIC_96",
         "OrganizationName": "Stillwater County",
         "County": "STILLWATER",
-        "AmountAwarded": 178,
-        "AmountPaid": 99.29,
+        "AmountAwarded": 254,
+        "AmountPaid": 131.18,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -13730,8 +13752,8 @@
         "Unique_ID": "WIC_97",
         "OrganizationName": "Stillwater County",
         "County": "STILLWATER",
-        "AmountAwarded": 682,
-        "AmountPaid": 379.71,
+        "AmountAwarded": 988,
+        "AmountPaid": 510.32,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -14016,8 +14038,8 @@
         "Unique_ID": "WIC_98",
         "OrganizationName": "Teton County",
         "County": "TETON",
-        "AmountAwarded": 1538,
-        "AmountPaid": 637.5,
+        "AmountAwarded": 2175,
+        "AmountPaid": 777.43,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -14082,8 +14104,8 @@
         "Unique_ID": "WIC_99",
         "OrganizationName": "Teton County",
         "County": "TETON",
-        "AmountAwarded": 256,
-        "AmountPaid": 36.32,
+        "AmountAwarded": 358,
+        "AmountPaid": 80.29,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -14290,7 +14312,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 622
+        "ObjectId": 623
       }
     },
     {
@@ -14312,7 +14334,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 623
+        "ObjectId": 624
       }
     },
     {
@@ -14334,7 +14356,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 624
+        "ObjectId": 625
       }
     },
     {
@@ -14346,8 +14368,8 @@
         "Unique_ID": "WIC_100",
         "OrganizationName": "Toole County",
         "County": "TOOLE",
-        "AmountAwarded": 2464,
-        "AmountPaid": 1796.85,
+        "AmountAwarded": 3310,
+        "AmountPaid": 2242.07,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -14356,7 +14378,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 620
+        "ObjectId": 621
       }
     },
     {
@@ -14378,7 +14400,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 625
+        "ObjectId": 626
       }
     },
     {
@@ -14390,7 +14412,7 @@
         "Unique_ID": "WIC_101",
         "OrganizationName": "Toole County",
         "County": "TOOLE",
-        "AmountAwarded": 78,
+        "AmountAwarded": 104,
         "AmountPaid": 31.3,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
@@ -14400,7 +14422,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 621
+        "ObjectId": 622
       }
     },
     {
@@ -14422,7 +14444,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 626
+        "ObjectId": 627
       }
     },
     {
@@ -14642,7 +14664,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 596
+        "ObjectId": 597
       }
     },
     {
@@ -14796,7 +14818,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 604
+        "ObjectId": 605
       }
     },
     {
@@ -14906,7 +14928,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 719
+        "ObjectId": 720
       }
     },
     {
@@ -14950,7 +14972,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 748
+        "ObjectId": 749
       }
     },
     {
@@ -14972,7 +14994,7 @@
         "DateofPayment": 1624255200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 645
+        "ObjectId": 646
       }
     },
     {
@@ -14994,7 +15016,7 @@
         "DateofPayment": 1623650400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 629
+        "ObjectId": 630
       }
     },
     {
@@ -15236,7 +15258,7 @@
         "DateofPayment": 1623650400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 615
+        "ObjectId": 616
       }
     },
     {
@@ -15346,7 +15368,7 @@
         "DateofPayment": 1623909600000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 699
+        "ObjectId": 700
       }
     },
     {
@@ -15412,7 +15434,7 @@
         "DateofPayment": 1624946400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 627
+        "ObjectId": 628
       }
     },
     {
@@ -15456,7 +15478,7 @@
         "DateofPayment": 1623996000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 628
+        "ObjectId": 629
       }
     },
     {
@@ -15478,7 +15500,7 @@
         "DateofPayment": 1624860000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 700
+        "ObjectId": 701
       }
     },
     {
@@ -15588,7 +15610,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 717
+        "ObjectId": 718
       }
     },
     {
@@ -15610,7 +15632,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 736
+        "ObjectId": 737
       }
     },
     {
@@ -15654,7 +15676,7 @@
         "DateofPayment": 1623650400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 603
+        "ObjectId": 604
       }
     },
     {
@@ -15764,7 +15786,7 @@
         "DateofPayment": 1623909600000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 617
+        "ObjectId": 618
       }
     },
     {
@@ -15918,7 +15940,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 702
+        "ObjectId": 703
       }
     },
     {
@@ -16116,7 +16138,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 634
+        "ObjectId": 635
       }
     },
     {
@@ -16138,7 +16160,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 635
+        "ObjectId": 636
       }
     },
     {
@@ -16150,8 +16172,8 @@
         "Unique_ID": "WIC_102",
         "OrganizationName": "Valley County",
         "County": "VALLEY",
-        "AmountAwarded": 3934,
-        "AmountPaid": 2074.54,
+        "AmountAwarded": 5078,
+        "AmountPaid": 2674.96,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -16160,7 +16182,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 633
+        "ObjectId": 634
       }
     },
     {
@@ -16182,7 +16204,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 636
+        "ObjectId": 637
       }
     },
     {
@@ -16204,7 +16226,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 637
+        "ObjectId": 638
       }
     },
     {
@@ -16226,7 +16248,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 638
+        "ObjectId": 639
       }
     },
     {
@@ -16248,7 +16270,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 639
+        "ObjectId": 640
       }
     },
     {
@@ -16270,7 +16292,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 640
+        "ObjectId": 641
       }
     },
     {
@@ -16292,7 +16314,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 641
+        "ObjectId": 642
       }
     },
     {
@@ -16314,7 +16336,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 642
+        "ObjectId": 643
       }
     },
     {
@@ -16380,7 +16402,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 631
+        "ObjectId": 632
       }
     },
     {
@@ -16392,8 +16414,8 @@
         "Unique_ID": "WIC_103",
         "OrganizationName": "Wheatland County",
         "County": "WHEATLAND",
-        "AmountAwarded": 1020,
-        "AmountPaid": 605.34,
+        "AmountAwarded": 1302,
+        "AmountPaid": 734.5,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -16534,7 +16556,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 674
+        "ObjectId": 675
       }
     },
     {
@@ -16634,8 +16656,8 @@
         "Unique_ID": "WIC_104",
         "OrganizationName": "Yellowstone County",
         "County": "YELLOWSTONE",
-        "AmountAwarded": 126508.17,
-        "AmountPaid": 53578.4,
+        "AmountAwarded": 166022.79,
+        "AmountPaid": 67304.32,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -16744,8 +16766,8 @@
         "Unique_ID": "WIC_105",
         "OrganizationName": "Yellowstone County",
         "County": "YELLOWSTONE",
-        "AmountAwarded": 9542,
-        "AmountPaid": 4485.28,
+        "AmountAwarded": 12526,
+        "AmountPaid": 5518.03,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
@@ -16832,8 +16854,8 @@
         "Unique_ID": "WIC_106",
         "OrganizationName": "Yellowstone County",
         "County": "YELLOWSTONE",
-        "AmountAwarded": 376,
-        "AmountPaid": 115.62,
+        "AmountAwarded": 552,
+        "AmountPaid": 140.11,
         "AgencyName": "DPHHS",
         "ProgramName": "Women, Infants, & Children ",
         "Subclass": 0,
