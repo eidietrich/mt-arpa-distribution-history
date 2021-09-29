@@ -177,7 +177,7 @@
         "Shape__Length": 382355.418260741,
         "Unique_ID": "DNRC_RRG_3422166",
         "OrganizationName": "Alberton, Town of",
-        "County": "Mineral ",
+        "County": "Mineral",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -186,9 +186,9 @@
         "Fund": 3920,
         "City": "Alberton",
         "DateofPayment": null,
-        "Latitude": "46.991500",
+        "Latitude": "46.9915",
         "Longitude": "-114.4695",
-        "ObjectId": 581
+        "ObjectId": 582
       }
     },
     {
@@ -199,7 +199,7 @@
         "Shape__Length": 513666.509449678,
         "Unique_ID": "DNRC_RRG_3422160",
         "OrganizationName": "Alfalfa Valley Irrigation District",
-        "County": "Blaine ",
+        "County": "Blaine",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -210,7 +210,7 @@
         "DateofPayment": null,
         "Latitude": "48.59392 ",
         "Longitude": "-109.137193",
-        "ObjectId": 1020
+        "ObjectId": 1021
       }
     },
     {
@@ -254,7 +254,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 725
+        "ObjectId": 726
       }
     },
     {
@@ -274,7 +274,7 @@
         "Fund": null,
         "City": "Crow Agency",
         "DateofPayment": null,
-        "Latitude": "45.608200",
+        "Latitude": "45.6082",
         "Longitude": "-107.4698",
         "ObjectId": 136
       }
@@ -661,14 +661,14 @@
         "Shape__Length": 841703.486828902,
         "Unique_ID": "DNRC_RRG_3422142",
         "OrganizationName": "Beaverhead County Conservation District",
-        "County": "BEAVERHEAD",
+        "County": "Beaverhead",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
         "ProgramName": "Renewable Resource Grant and Loan Program",
         "Subclass": 54040,
         "Fund": 3920,
-        "City": "DILLON",
+        "City": "Dillon",
         "DateofPayment": null,
         "Latitude": "44.391019",
         "Longitude": "-112.22471",
@@ -683,14 +683,14 @@
         "Shape__Length": 542863.248960951,
         "Unique_ID": "DNRC_RRG_3422178",
         "OrganizationName": "Belgrade School District",
-        "County": "GALLATIN",
+        "County": "Gallatin",
         "AmountAwarded": 115046,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
         "ProgramName": "Renewable Resource Grant and Loan Program",
         "Subclass": 54040,
         "Fund": 3920,
-        "City": "BELGRADE",
+        "City": "Belgrade",
         "DateofPayment": null,
         "Latitude": "45.774365",
         "Longitude": "-111.21539",
@@ -738,7 +738,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 652
+        "ObjectId": 653
       }
     },
     {
@@ -1354,7 +1354,7 @@
         "DateofPayment": null,
         "Latitude": "48.4106373",
         "Longitude": "-114.3352652",
-        "ObjectId": 1152
+        "ObjectId": 1153
       }
     },
     {
@@ -1365,7 +1365,7 @@
         "Shape__Length": 782939.540233763,
         "Unique_ID": "DNRC_RRG_3422128",
         "OrganizationName": "Big Mountain Sewer District",
-        "County": "Flathead ",
+        "County": "Flathead",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -1374,9 +1374,9 @@
         "Fund": 3920,
         "City": "Whitefish",
         "DateofPayment": null,
-        "Latitude": "48.478000",
+        "Latitude": "48.478",
         "Longitude": "-114.3501",
-        "ObjectId": 1193
+        "ObjectId": 1194
       }
     },
     {
@@ -1398,7 +1398,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 854
+        "ObjectId": 855
       }
     },
     {
@@ -1409,7 +1409,7 @@
         "Shape__Length": 541644.851946863,
         "Unique_ID": "DNRC_RRG_3422177",
         "OrganizationName": "Big Sandy, Town of",
-        "County": "Chouteau ",
+        "County": "Chouteau",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -1418,9 +1418,9 @@
         "Fund": 3920,
         "City": "Big Sandy",
         "DateofPayment": null,
-        "Latitude": "48.177778",
+        "Latitude": "48.1777778",
         "Longitude": "-110.114722",
-        "ObjectId": 878
+        "ObjectId": 879
       }
     },
     {
@@ -1440,9 +1440,9 @@
         "Fund": null,
         "City": "Big Sandy",
         "DateofPayment": null,
-        "Latitude": "48.178561",
+        "Latitude": "48.1785609",
         "Longitude": "-110.1122215",
-        "ObjectId": 880
+        "ObjectId": 881
       }
     },
     {
@@ -1464,7 +1464,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 726
+        "ObjectId": 727
       }
     },
     {
@@ -1484,7 +1484,7 @@
         "Fund": null,
         "City": "Big Sky",
         "DateofPayment": null,
-        "Latitude": "45.259318",
+        "Latitude": "45.25931814",
         "Longitude": "-111.304168",
         "ObjectId": 229
       }
@@ -1497,7 +1497,7 @@
         "Shape__Length": 370238.909233869,
         "Unique_ID": "DNRC_RRG_3422165",
         "OrganizationName": "Big Timber, City of",
-        "County": "Sweet Grass ",
+        "County": "Sweet Grass",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -1506,7 +1506,7 @@
         "Fund": 3920,
         "City": "Big Timber",
         "DateofPayment": null,
-        "Latitude": "45.834400",
+        "Latitude": "45.8344",
         "Longitude": "-109.9541",
         "ObjectId": 241
       }
@@ -1550,7 +1550,7 @@
         "Fund": null,
         "City": "Billings",
         "DateofPayment": null,
-        "Latitude": "45.780672",
+        "Latitude": "45.78067219",
         "Longitude": "-108.4880549",
         "ObjectId": 326
       }
@@ -1572,7 +1572,7 @@
         "Fund": null,
         "City": "Billings",
         "DateofPayment": null,
-        "Latitude": "45.742772",
+        "Latitude": "45.74277219",
         "Longitude": "-108.5785549",
         "ObjectId": 327
       }
@@ -1594,7 +1594,7 @@
         "Fund": null,
         "City": "Billings",
         "DateofPayment": null,
-        "Latitude": "45.771872",
+        "Latitude": "45.77187219",
         "Longitude": "-108.5182549",
         "ObjectId": 328
       }
@@ -1607,14 +1607,14 @@
         "Shape__Length": 507114.639967286,
         "Unique_ID": "DNRC_RRG_3422141",
         "OrganizationName": "Bitter Root Irrigation District",
-        "County": "RAVALLI",
+        "County": "Ravalli",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
         "ProgramName": "Renewable Resource Grant and Loan Program",
         "Subclass": 54040,
         "Fund": 3920,
-        "City": "STEVENSVILLE",
+        "City": "Stevensville",
         "DateofPayment": null,
         "Latitude": "46.064166",
         "Longitude": "-114.23388",
@@ -1629,14 +1629,14 @@
         "Shape__Length": 507114.639967286,
         "Unique_ID": "DNRC_RRG_3422130",
         "OrganizationName": "Bitterroot Conservation District",
-        "County": "RAVALLI",
+        "County": "Ravalli",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
         "ProgramName": "Renewable Resource Grant and Loan Program",
         "Subclass": 54040,
         "Fund": 3920,
-        "City": "HAMILTON",
+        "City": "Hamilton",
         "DateofPayment": null,
         "Latitude": "46.443505",
         "Longitude": "-114.124791",
@@ -1662,7 +1662,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1125
+        "ObjectId": 1126
       }
     },
     {
@@ -1684,7 +1684,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1005
+        "ObjectId": 1006
       }
     },
     {
@@ -1706,7 +1706,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1008
+        "ObjectId": 1009
       }
     },
     {
@@ -1728,7 +1728,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1015
+        "ObjectId": 1016
       }
     },
     {
@@ -1750,7 +1750,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1007
+        "ObjectId": 1008
       }
     },
     {
@@ -1772,7 +1772,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1009
+        "ObjectId": 1010
       }
     },
     {
@@ -1794,7 +1794,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1016
+        "ObjectId": 1017
       }
     },
     {
@@ -1816,7 +1816,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1006
+        "ObjectId": 1007
       }
     },
     {
@@ -1838,7 +1838,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1010
+        "ObjectId": 1011
       }
     },
     {
@@ -1860,7 +1860,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1017
+        "ObjectId": 1018
       }
     },
     {
@@ -1882,7 +1882,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1011
+        "ObjectId": 1012
       }
     },
     {
@@ -1904,7 +1904,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1018
+        "ObjectId": 1019
       }
     },
     {
@@ -1926,7 +1926,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1012
+        "ObjectId": 1013
       }
     },
     {
@@ -1948,7 +1948,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1019
+        "ObjectId": 1020
       }
     },
     {
@@ -1970,7 +1970,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1013
+        "ObjectId": 1014
       }
     },
     {
@@ -1992,7 +1992,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1014
+        "ObjectId": 1015
       }
     },
     {
@@ -2014,7 +2014,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1146
+        "ObjectId": 1147
       }
     },
     {
@@ -2056,7 +2056,7 @@
         "Fund": null,
         "City": "Broadview",
         "DateofPayment": null,
-        "Latitude": "46.099300",
+        "Latitude": "46.0993",
         "Longitude": "-108.8848",
         "ObjectId": 329
       }
@@ -2245,7 +2245,7 @@
         "Shape__Length": 376228.067377593,
         "Unique_ID": "DNRC_RRG_3422154",
         "OrganizationName": "Buffalo Rapids Irrigation Project District 1",
-        "County": "Dawson ",
+        "County": "Dawson",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -2254,9 +2254,31 @@
         "Fund": 3920,
         "City": "Glendive",
         "DateofPayment": null,
-        "Latitude": "47.040580",
+        "Latitude": "47.04058",
         "Longitude": "-104.813",
-        "ObjectId": 1274
+        "ObjectId": 1275
+      }
+    },
+    {
+      "attributes": {
+        "NAME": "CUSTER",
+        "NAMELABEL": "Custer",
+        "Shape__Area": 9814319323.04369,
+        "Shape__Length": 482663.231583736,
+        "Unique_ID": "DNRC_RRG_3422157",
+        "OrganizationName": "Buffalo Rapids Irrigation Project District 2",
+        "County": "Custer",
+        "AmountAwarded": 125000,
+        "AmountPaid": 0,
+        "AgencyName": "DNRC",
+        "ProgramName": "Renewable Resource Grant and Loan Program",
+        "Subclass": 54040,
+        "Fund": 3920,
+        "City": "Terry",
+        "DateofPayment": null,
+        "Latitude": "46.79499",
+        "Longitude": "-105.338",
+        "ObjectId": 507
       }
     },
     {
@@ -2289,7 +2311,7 @@
         "Shape__Length": 257185.230382373,
         "Unique_ID": "DNRC_RRG_3422117",
         "OrganizationName": "Butte-Silver Bow Government",
-        "County": "Silver Bow ",
+        "County": "Silver Bow",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -2298,7 +2320,7 @@
         "Fund": 3920,
         "City": "Butte",
         "DateofPayment": null,
-        "Latitude": "45.834400",
+        "Latitude": "45.8344",
         "Longitude": "-109.9541",
         "ObjectId": 261
       }
@@ -2320,7 +2342,7 @@
         "Fund": null,
         "City": "Butte",
         "DateofPayment": null,
-        "Latitude": "46.005217",
+        "Latitude": "46.00521708",
         "Longitude": "-112.6239778",
         "ObjectId": 262
       }
@@ -2344,7 +2366,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1233
+        "ObjectId": 1234
       }
     },
     {
@@ -2795,7 +2817,7 @@
         "Shape__Length": 427705.4548582,
         "Unique_ID": "DNRC_RRG_3422151",
         "OrganizationName": "Carbon County Conservation District",
-        "County": "Carbon ",
+        "County": "Carbon",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -2894,7 +2916,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 661
+        "ObjectId": 662
       }
     },
     {
@@ -2916,7 +2938,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 675
+        "ObjectId": 676
       }
     },
     {
@@ -2938,7 +2960,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 662
+        "ObjectId": 663
       }
     },
     {
@@ -2960,7 +2982,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 676
+        "ObjectId": 677
       }
     },
     {
@@ -2982,7 +3004,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 658
+        "ObjectId": 659
       }
     },
     {
@@ -3004,7 +3026,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 663
+        "ObjectId": 664
       }
     },
     {
@@ -3026,7 +3048,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 677
+        "ObjectId": 678
       }
     },
     {
@@ -3048,7 +3070,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 664
+        "ObjectId": 665
       }
     },
     {
@@ -3070,7 +3092,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 678
+        "ObjectId": 679
       }
     },
     {
@@ -3092,7 +3114,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 659
+        "ObjectId": 660
       }
     },
     {
@@ -3114,7 +3136,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 665
+        "ObjectId": 666
       }
     },
     {
@@ -3136,7 +3158,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 679
+        "ObjectId": 680
       }
     },
     {
@@ -3158,7 +3180,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 666
+        "ObjectId": 667
       }
     },
     {
@@ -3180,7 +3202,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 667
+        "ObjectId": 668
       }
     },
     {
@@ -3202,7 +3224,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 668
+        "ObjectId": 669
       }
     },
     {
@@ -3224,7 +3246,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 680
+        "ObjectId": 681
       }
     },
     {
@@ -3246,7 +3268,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 669
+        "ObjectId": 670
       }
     },
     {
@@ -3268,7 +3290,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 681
+        "ObjectId": 682
       }
     },
     {
@@ -3290,7 +3312,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 670
+        "ObjectId": 671
       }
     },
     {
@@ -3312,7 +3334,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 682
+        "ObjectId": 683
       }
     },
     {
@@ -3334,7 +3356,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 671
+        "ObjectId": 672
       }
     },
     {
@@ -3356,7 +3378,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 683
+        "ObjectId": 684
       }
     },
     {
@@ -3378,7 +3400,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 672
+        "ObjectId": 673
       }
     },
     {
@@ -3400,7 +3422,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 673
+        "ObjectId": 674
       }
     },
     {
@@ -3422,7 +3444,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 684
+        "ObjectId": 685
       }
     },
     {
@@ -3444,7 +3466,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 674
+        "ObjectId": 675
       }
     },
     {
@@ -3466,7 +3488,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 685
+        "ObjectId": 686
       }
     },
     {
@@ -3510,7 +3532,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 696
+        "ObjectId": 697
       }
     },
     {
@@ -3532,7 +3554,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 695
+        "ObjectId": 696
       }
     },
     {
@@ -3552,9 +3574,9 @@
         "Fund": null,
         "City": "Chester",
         "DateofPayment": null,
-        "Latitude": "48.509544",
+        "Latitude": "48.50954388",
         "Longitude": "-110.9678811",
-        "ObjectId": 1035
+        "ObjectId": 1036
       }
     },
     {
@@ -3565,7 +3587,7 @@
         "Shape__Length": 419512.162796588,
         "Unique_ID": "DNRC_RRG_3422169",
         "OrganizationName": "Choteau, City of ",
-        "County": "Teton ",
+        "County": "Teton",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -3574,9 +3596,9 @@
         "Fund": 3920,
         "City": "Choteau",
         "DateofPayment": null,
-        "Latitude": "47.812500",
+        "Latitude": "47.8125",
         "Longitude": "-112.1836",
-        "ObjectId": 844
+        "ObjectId": 845
       }
     },
     {
@@ -3596,9 +3618,9 @@
         "Fund": null,
         "City": "Choteau",
         "DateofPayment": null,
-        "Latitude": "47.812000",
+        "Latitude": "47.812",
         "Longitude": "-112.183",
-        "ObjectId": 848
+        "ObjectId": 849
       }
     },
     {
@@ -3620,7 +3642,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 861
+        "ObjectId": 862
       }
     },
     {
@@ -3642,7 +3664,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 864
+        "ObjectId": 865
       }
     },
     {
@@ -3664,7 +3686,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 872
+        "ObjectId": 873
       }
     },
     {
@@ -3686,7 +3708,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 863
+        "ObjectId": 864
       }
     },
     {
@@ -3708,7 +3730,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 865
+        "ObjectId": 866
       }
     },
     {
@@ -3730,7 +3752,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 866
+        "ObjectId": 867
       }
     },
     {
@@ -3752,7 +3774,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 873
+        "ObjectId": 874
       }
     },
     {
@@ -3774,7 +3796,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 862
+        "ObjectId": 863
       }
     },
     {
@@ -3796,7 +3818,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 867
+        "ObjectId": 868
       }
     },
     {
@@ -3818,7 +3840,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 874
+        "ObjectId": 875
       }
     },
     {
@@ -3838,9 +3860,9 @@
         "Fund": null,
         "City": "Fort Benton",
         "DateofPayment": null,
-        "Latitude": "47.598268",
+        "Latitude": "47.59826819",
         "Longitude": "-110.2659129",
-        "ObjectId": 881
+        "ObjectId": 882
       }
     },
     {
@@ -3860,9 +3882,9 @@
         "Fund": null,
         "City": "Fort Benton",
         "DateofPayment": null,
-        "Latitude": "47.958952",
+        "Latitude": "47.9589518",
         "Longitude": "-110.237198",
-        "ObjectId": 882
+        "ObjectId": 883
       }
     },
     {
@@ -3882,9 +3904,9 @@
         "Fund": null,
         "City": "Fort Benton",
         "DateofPayment": null,
-        "Latitude": "48.178561",
+        "Latitude": "48.1785609",
         "Longitude": "-110.1122215",
-        "ObjectId": 883
+        "ObjectId": 884
       }
     },
     {
@@ -3906,7 +3928,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 868
+        "ObjectId": 869
       }
     },
     {
@@ -3928,7 +3950,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 875
+        "ObjectId": 876
       }
     },
     {
@@ -3950,7 +3972,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 869
+        "ObjectId": 870
       }
     },
     {
@@ -3972,7 +3994,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 876
+        "ObjectId": 877
       }
     },
     {
@@ -3994,7 +4016,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 870
+        "ObjectId": 871
       }
     },
     {
@@ -4016,7 +4038,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 877
+        "ObjectId": 878
       }
     },
     {
@@ -4038,7 +4060,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 871
+        "ObjectId": 872
       }
     },
     {
@@ -4049,7 +4071,7 @@
         "Shape__Length": 449015.586500251,
         "Unique_ID": "DNRC_RRG_3422147",
         "OrganizationName": "Circle, Town of",
-        "County": "McCone ",
+        "County": "Mccone",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -4058,9 +4080,9 @@
         "Fund": 3920,
         "City": "Circle",
         "DateofPayment": null,
-        "Latitude": "47.416400",
+        "Latitude": "47.4164",
         "Longitude": "-105.5883",
-        "ObjectId": 823
+        "ObjectId": 824
       }
     },
     {
@@ -4071,7 +4093,7 @@
         "Shape__Length": 449015.586500251,
         "Unique_ID": "20763318",
         "OrganizationName": "Circle, Town of",
-        "County": "McCone",
+        "County": "Mccone",
         "AmountAwarded": 1575518,
         "AmountPaid": 0,
         "AgencyName": " DNRC ",
@@ -4080,9 +4102,9 @@
         "Fund": null,
         "City": "Circle",
         "DateofPayment": null,
-        "Latitude": "47.419000",
+        "Latitude": "47.419",
         "Longitude": "-105.587",
-        "ObjectId": 824
+        "ObjectId": 825
       }
     },
     {
@@ -4258,7 +4280,7 @@
         "DateofPayment": 1623650400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1000
+        "ObjectId": 1001
       }
     },
     {
@@ -4280,7 +4302,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 825
+        "ObjectId": 826
       }
     },
     {
@@ -4302,7 +4324,7 @@
         "DateofPayment": null,
         "Latitude": "47.8124531",
         "Longitude": "-112.1836301",
-        "ObjectId": 831
+        "ObjectId": 832
       }
     },
     {
@@ -4346,7 +4368,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 922
+        "ObjectId": 923
       }
     },
     {
@@ -4368,7 +4390,7 @@
         "DateofPayment": 1623650400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1123
+        "ObjectId": 1124
       }
     },
     {
@@ -4412,7 +4434,7 @@
         "DateofPayment": null,
         "Latitude": "46.3990941",
         "Longitude": "-112.7383721",
-        "ObjectId": 586
+        "ObjectId": 587
       }
     },
     {
@@ -4456,7 +4478,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 722
+        "ObjectId": 723
       }
     },
     {
@@ -4478,7 +4500,7 @@
         "DateofPayment": null,
         "Latitude": "46.5896567",
         "Longitude": "-111.9155461",
-        "ObjectId": 729
+        "ObjectId": 730
       }
     },
     {
@@ -4522,7 +4544,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 852
+        "ObjectId": 853
       }
     },
     {
@@ -4544,7 +4566,7 @@
         "DateofPayment": null,
         "Latitude": "47.8344143",
         "Longitude": "-110.6582699",
-        "ObjectId": 859
+        "ObjectId": 860
       }
     },
     {
@@ -4566,7 +4588,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1084
+        "ObjectId": 1085
       }
     },
     {
@@ -4588,7 +4610,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1260
+        "ObjectId": 1261
       }
     },
     {
@@ -4610,7 +4632,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 656
+        "ObjectId": 657
       }
     },
     {
@@ -4698,7 +4720,7 @@
         "DateofPayment": 1623736800000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1001
+        "ObjectId": 1002
       }
     },
     {
@@ -4764,7 +4786,7 @@
         "DateofPayment": 1623650400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 974
+        "ObjectId": 975
       }
     },
     {
@@ -4786,7 +4808,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 723
+        "ObjectId": 724
       }
     },
     {
@@ -4830,7 +4852,7 @@
         "DateofPayment": 1623650400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1140
+        "ObjectId": 1141
       }
     },
     {
@@ -4874,7 +4896,7 @@
         "DateofPayment": 1623909600000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 689
+        "ObjectId": 690
       }
     },
     {
@@ -4896,7 +4918,7 @@
         "DateofPayment": null,
         "Latitude": "47.0624732",
         "Longitude": "-109.428238",
-        "ObjectId": 699
+        "ObjectId": 700
       }
     },
     {
@@ -4918,7 +4940,7 @@
         "DateofPayment": 1623736800000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1227
+        "ObjectId": 1228
       }
     },
     {
@@ -4940,7 +4962,7 @@
         "DateofPayment": null,
         "Latitude": "48.3882861",
         "Longitude": "-115.5559988",
-        "ObjectId": 1236
+        "ObjectId": 1237
       }
     },
     {
@@ -5006,7 +5028,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1036
+        "ObjectId": 1037
       }
     },
     {
@@ -5050,7 +5072,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 611
+        "ObjectId": 612
       }
     },
     {
@@ -5072,7 +5094,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1202
+        "ObjectId": 1203
       }
     },
     {
@@ -5094,7 +5116,7 @@
         "DateofPayment": 1623909600000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 771
+        "ObjectId": 772
       }
     },
     {
@@ -5116,7 +5138,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 945
+        "ObjectId": 946
       }
     },
     {
@@ -5182,7 +5204,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 772
+        "ObjectId": 773
       }
     },
     {
@@ -5248,7 +5270,7 @@
         "DateofPayment": 1623909600000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1109
+        "ObjectId": 1110
       }
     },
     {
@@ -5270,7 +5292,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1060
+        "ObjectId": 1061
       }
     },
     {
@@ -5292,7 +5314,7 @@
         "DateofPayment": null,
         "Latitude": "48.5066603",
         "Longitude": "-111.8561447",
-        "ObjectId": 1064
+        "ObjectId": 1065
       }
     },
     {
@@ -5314,7 +5336,7 @@
         "DateofPayment": 1623736800000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1277
+        "ObjectId": 1278
       }
     },
     {
@@ -5336,7 +5358,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 520
+        "ObjectId": 521
       }
     },
     {
@@ -5358,7 +5380,7 @@
         "DateofPayment": 1623909600000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 885
+        "ObjectId": 886
       }
     },
     {
@@ -5380,7 +5402,7 @@
         "DateofPayment": null,
         "Latitude": "47.5955023",
         "Longitude": "-115.3373865",
-        "ObjectId": 891
+        "ObjectId": 892
       }
     },
     {
@@ -5468,7 +5490,7 @@
         "DateofPayment": 1623650400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1229
+        "ObjectId": 1230
       }
     },
     {
@@ -5490,7 +5512,7 @@
         "DateofPayment": 1623650400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 509
+        "ObjectId": 510
       }
     },
     {
@@ -5512,7 +5534,7 @@
         "DateofPayment": 1623909600000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1141
+        "ObjectId": 1142
       }
     },
     {
@@ -5534,7 +5556,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 946
+        "ObjectId": 947
       }
     },
     {
@@ -5556,7 +5578,7 @@
         "DateofPayment": null,
         "Latitude": "48.0905736",
         "Longitude": "-105.6405566",
-        "ObjectId": 956
+        "ObjectId": 957
       }
     },
     {
@@ -5598,7 +5620,7 @@
         "Fund": null,
         "City": "Clancy",
         "DateofPayment": null,
-        "Latitude": "46.465000",
+        "Latitude": "46.465",
         "Longitude": "-111.984",
         "ObjectId": 353
       }
@@ -5622,7 +5644,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 889
+        "ObjectId": 890
       }
     },
     {
@@ -5644,7 +5666,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 888
+        "ObjectId": 889
       }
     },
     {
@@ -5655,7 +5677,7 @@
         "Shape__Length": 550983.557398275,
         "Unique_ID": "DNRC_RRG_3422149",
         "OrganizationName": "Clinton Irrigation District",
-        "County": "Missoula ",
+        "County": "Missoula",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -5664,9 +5686,9 @@
         "Fund": 3920,
         "City": "Clinton",
         "DateofPayment": null,
-        "Latitude": "46.461660",
+        "Latitude": "46.46166",
         "Longitude": "-113.425",
-        "ObjectId": 640
+        "ObjectId": 641
       }
     },
     {
@@ -5688,7 +5710,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1142
+        "ObjectId": 1143
       }
     },
     {
@@ -5708,9 +5730,9 @@
         "Fund": null,
         "City": "Columbia Falls",
         "DateofPayment": null,
-        "Latitude": "48.357582",
+        "Latitude": "48.35758221",
         "Longitude": "-114.2123125",
-        "ObjectId": 1194
+        "ObjectId": 1195
       }
     },
     {
@@ -5831,7 +5853,7 @@
         "Shape__Length": 463867.00999569,
         "Unique_ID": "DNRC_RRG_3422109",
         "OrganizationName": "Cooke Pass, Cooke City, Silvergate County Sewer District",
-        "County": "Park ",
+        "County": "Park",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -5840,7 +5862,7 @@
         "Fund": 3920,
         "City": "Cooke City",
         "DateofPayment": null,
-        "Latitude": "45.020130",
+        "Latitude": "45.02013",
         "Longitude": "-109.9336",
         "ObjectId": 190
       }
@@ -6029,7 +6051,7 @@
         "Shape__Length": 482663.231583736,
         "Unique_ID": "20811215",
         "OrganizationName": "Custer County",
-        "County": "Custer ",
+        "County": "Custer",
         "AmountAwarded": 343091,
         "AmountPaid": 0,
         "AgencyName": " DNRC ",
@@ -6038,9 +6060,9 @@
         "Fund": null,
         "City": "Miles City",
         "DateofPayment": null,
-        "Latitude": "46.437516",
+        "Latitude": "46.43751572",
         "Longitude": "-105.7807507",
-        "ObjectId": 507
+        "ObjectId": 508
       }
     },
     {
@@ -6084,7 +6106,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1115
+        "ObjectId": 1116
       }
     },
     {
@@ -6106,7 +6128,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1119
+        "ObjectId": 1120
       }
     },
     {
@@ -6128,7 +6150,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1116
+        "ObjectId": 1117
       }
     },
     {
@@ -6150,7 +6172,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1120
+        "ObjectId": 1121
       }
     },
     {
@@ -6172,7 +6194,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1114
+        "ObjectId": 1115
       }
     },
     {
@@ -6194,7 +6216,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1117
+        "ObjectId": 1118
       }
     },
     {
@@ -6216,7 +6238,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1121
+        "ObjectId": 1122
       }
     },
     {
@@ -6238,7 +6260,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1118
+        "ObjectId": 1119
       }
     },
     {
@@ -6260,7 +6282,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1111
+        "ObjectId": 1112
       }
     },
     {
@@ -6280,7 +6302,7 @@
         "Fund": null,
         "City": "Darby",
         "DateofPayment": null,
-        "Latitude": "46.025700",
+        "Latitude": "46.0257",
         "Longitude": "-114.1729",
         "ObjectId": 417
       }
@@ -6293,7 +6315,7 @@
         "Shape__Length": 507114.639967286,
         "Unique_ID": "DNRC_RRG_3422121",
         "OrganizationName": "Darby, Town of",
-        "County": "Ravalli ",
+        "County": "Ravalli",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -6302,7 +6324,7 @@
         "Fund": 3920,
         "City": "Darby",
         "DateofPayment": null,
-        "Latitude": "46.021320",
+        "Latitude": "46.02132",
         "Longitude": "-114.17589",
         "ObjectId": 416
       }
@@ -6326,7 +6348,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1268
+        "ObjectId": 1269
       }
     },
     {
@@ -6348,7 +6370,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1271
+        "ObjectId": 1272
       }
     },
     {
@@ -6370,7 +6392,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1267
+        "ObjectId": 1268
       }
     },
     {
@@ -6392,7 +6414,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1269
+        "ObjectId": 1270
       }
     },
     {
@@ -6414,7 +6436,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1272
+        "ObjectId": 1273
       }
     },
     {
@@ -6436,7 +6458,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1270
+        "ObjectId": 1271
       }
     },
     {
@@ -6458,7 +6480,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1273
+        "ObjectId": 1274
       }
     },
     {
@@ -6544,7 +6566,7 @@
         "Fund": null,
         "City": "Anaconda",
         "DateofPayment": null,
-        "Latitude": "46.138000",
+        "Latitude": "46.138",
         "Longitude": "-112.986",
         "ObjectId": 279
       }
@@ -6566,7 +6588,7 @@
         "Fund": null,
         "City": "Anaconda",
         "DateofPayment": null,
-        "Latitude": "46.138000",
+        "Latitude": "46.138",
         "Longitude": "-112.986",
         "ObjectId": 280
       }
@@ -6579,7 +6601,7 @@
         "Shape__Length": 486568.370430574,
         "Unique_ID": "DNRC_RRG_3422118",
         "OrganizationName": "Deer Lodge, City of",
-        "County": "Powell ",
+        "County": "Powell",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -6588,9 +6610,9 @@
         "Fund": 3920,
         "City": "Deer Lodge",
         "DateofPayment": null,
-        "Latitude": "46.397730",
+        "Latitude": "46.39773",
         "Longitude": "-112.72905",
-        "ObjectId": 602
+        "ObjectId": 603
       }
     },
     {
@@ -6601,7 +6623,7 @@
         "Shape__Length": 351652.687985847,
         "Unique_ID": "DNRC_RRG_3422123",
         "OrganizationName": "Department of Natural Resources and Conservation-Water Resources Division",
-        "County": "Judith Basin ",
+        "County": "Judith Basin",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -6610,9 +6632,9 @@
         "Fund": 3920,
         "City": "Hobson",
         "DateofPayment": null,
-        "Latitude": "46.978660",
+        "Latitude": "46.97866",
         "Longitude": "-109.9558",
-        "ObjectId": 542
+        "ObjectId": 543
       }
     },
     {
@@ -6623,18 +6645,18 @@
         "Shape__Length": 351652.687985847,
         "Unique_ID": "DNRC_RRG_3422123",
         "OrganizationName": "Department of Natural Resources and Conservation-Water Resources Division",
-        "County": "JUDITH BASIN",
+        "County": "Judith Basin",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
         "ProgramName": "Renewable Resource Grant and Loan Program",
         "Subclass": 54040,
         "Fund": 3920,
-        "City": "HOBSON",
+        "City": "Hobson",
         "DateofPayment": null,
         "Latitude": "46.97866",
         "Longitude": "-109.95582",
-        "ObjectId": 543
+        "ObjectId": 544
       }
     },
     {
@@ -6645,7 +6667,7 @@
         "Shape__Length": 253605.155237113,
         "Unique_ID": "DNRC_RRG_3422146",
         "OrganizationName": "Department of Natural Resources and Conservation-Water Resources Division",
-        "County": "Wheatland ",
+        "County": "Wheatland",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -6654,7 +6676,7 @@
         "Fund": 3920,
         "City": "Two Dot",
         "DateofPayment": null,
-        "Latitude": "46.481000",
+        "Latitude": "46.481",
         "Longitude": "-109.985",
         "ObjectId": 377
       }
@@ -6733,7 +6755,7 @@
         "Shape__Length": 648479.592804696,
         "Unique_ID": "DNRC_RRG_3422140",
         "OrganizationName": "East Helena, City of",
-        "County": "Lewis and Clark ",
+        "County": "Lewis and Clark",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -6742,9 +6764,9 @@
         "Fund": 3920,
         "City": "East Helena",
         "DateofPayment": null,
-        "Latitude": "45.059140",
+        "Latitude": "45.05914",
         "Longitude": "-111.9145",
-        "ObjectId": 752
+        "ObjectId": 753
       }
     },
     {
@@ -6764,9 +6786,9 @@
         "Fund": null,
         "City": "East Helena",
         "DateofPayment": null,
-        "Latitude": "46.589900",
+        "Latitude": "46.5899",
         "Longitude": "-111.9152",
-        "ObjectId": 756
+        "ObjectId": 757
       }
     },
     {
@@ -6788,7 +6810,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1263
+        "ObjectId": 1264
       }
     },
     {
@@ -6799,7 +6821,7 @@
         "Shape__Length": 408735.394595148,
         "Unique_ID": "DNRC_RRG_3422152",
         "OrganizationName": "Ekalaka, Town of",
-        "County": "Carter ",
+        "County": "Carter",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -6808,7 +6830,7 @@
         "Fund": 3920,
         "City": "Ekalaka",
         "DateofPayment": null,
-        "Latitude": "45.888900",
+        "Latitude": "45.8889",
         "Longitude": "-104.5527",
         "ObjectId": 270
       }
@@ -7272,7 +7294,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 512
+        "ObjectId": 513
       }
     },
     {
@@ -7294,7 +7316,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 522
+        "ObjectId": 523
       }
     },
     {
@@ -7316,7 +7338,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 547
+        "ObjectId": 548
       }
     },
     {
@@ -7338,7 +7360,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 553
+        "ObjectId": 554
       }
     },
     {
@@ -7360,7 +7382,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 566
+        "ObjectId": 567
       }
     },
     {
@@ -7382,7 +7404,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 584
+        "ObjectId": 585
       }
     },
     {
@@ -7404,7 +7426,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 610
+        "ObjectId": 611
       }
     },
     {
@@ -7426,7 +7448,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 655
+        "ObjectId": 656
       }
     },
     {
@@ -7448,7 +7470,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 698
+        "ObjectId": 699
       }
     },
     {
@@ -7470,7 +7492,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 728
+        "ObjectId": 729
       }
     },
     {
@@ -7492,7 +7514,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 761
+        "ObjectId": 762
       }
     },
     {
@@ -7514,7 +7536,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 778
+        "ObjectId": 779
       }
     },
     {
@@ -7536,7 +7558,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 828
+        "ObjectId": 829
       }
     },
     {
@@ -7558,7 +7580,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 856
+        "ObjectId": 857
       }
     },
     {
@@ -7580,7 +7602,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 890
+        "ObjectId": 891
       }
     },
     {
@@ -7602,7 +7624,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 925
+        "ObjectId": 926
       }
     },
     {
@@ -7624,7 +7646,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 955
+        "ObjectId": 956
       }
     },
     {
@@ -7646,7 +7668,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 977
+        "ObjectId": 978
       }
     },
     {
@@ -7668,7 +7690,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1003
+        "ObjectId": 1004
       }
     },
     {
@@ -7690,7 +7712,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1040
+        "ObjectId": 1041
       }
     },
     {
@@ -7712,7 +7734,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1063
+        "ObjectId": 1064
       }
     },
     {
@@ -7734,7 +7756,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1086
+        "ObjectId": 1087
       }
     },
     {
@@ -7756,7 +7778,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1127
+        "ObjectId": 1128
       }
     },
     {
@@ -7778,7 +7800,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1151
+        "ObjectId": 1152
       }
     },
     {
@@ -7800,7 +7822,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1205
+        "ObjectId": 1206
       }
     },
     {
@@ -7822,7 +7844,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1235
+        "ObjectId": 1236
       }
     },
     {
@@ -7844,7 +7866,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1265
+        "ObjectId": 1266
       }
     },
     {
@@ -7866,7 +7888,7 @@
         "DateofPayment": 1627344000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1282
+        "ObjectId": 1283
       }
     },
     {
@@ -7877,7 +7899,7 @@
         "Shape__Length": 419512.162796588,
         "Unique_ID": "DNRC_RRG_3422170",
         "OrganizationName": "Fairfield, Town of",
-        "County": "Teton ",
+        "County": "Teton",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -7888,7 +7910,7 @@
         "DateofPayment": null,
         "Latitude": "47.614827",
         "Longitude": "-111.982552",
-        "ObjectId": 845
+        "ObjectId": 846
       }
     },
     {
@@ -7910,7 +7932,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 953
+        "ObjectId": 954
       }
     },
     {
@@ -8064,7 +8086,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 701
+        "ObjectId": 702
       }
     },
     {
@@ -8086,7 +8108,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 709
+        "ObjectId": 710
       }
     },
     {
@@ -8108,7 +8130,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 702
+        "ObjectId": 703
       }
     },
     {
@@ -8130,7 +8152,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 710
+        "ObjectId": 711
       }
     },
     {
@@ -8152,7 +8174,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 711
+        "ObjectId": 712
       }
     },
     {
@@ -8174,7 +8196,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 703
+        "ObjectId": 704
       }
     },
     {
@@ -8196,7 +8218,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 712
+        "ObjectId": 713
       }
     },
     {
@@ -8218,7 +8240,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 704
+        "ObjectId": 705
       }
     },
     {
@@ -8240,7 +8262,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 713
+        "ObjectId": 714
       }
     },
     {
@@ -8262,7 +8284,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 700
+        "ObjectId": 701
       }
     },
     {
@@ -8284,7 +8306,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 705
+        "ObjectId": 706
       }
     },
     {
@@ -8306,7 +8328,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 714
+        "ObjectId": 715
       }
     },
     {
@@ -8326,9 +8348,9 @@
         "Fund": null,
         "City": "Lewistown",
         "DateofPayment": null,
-        "Latitude": "47.333000",
+        "Latitude": "47.333",
         "Longitude": "-108.956",
-        "ObjectId": 719
+        "ObjectId": 720
       }
     },
     {
@@ -8350,7 +8372,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 706
+        "ObjectId": 707
       }
     },
     {
@@ -8372,7 +8394,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 715
+        "ObjectId": 716
       }
     },
     {
@@ -8394,7 +8416,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 707
+        "ObjectId": 708
       }
     },
     {
@@ -8416,7 +8438,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 708
+        "ObjectId": 709
       }
     },
     {
@@ -8438,7 +8460,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 716
+        "ObjectId": 717
       }
     },
     {
@@ -8460,7 +8482,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1177
+        "ObjectId": 1178
       }
     },
     {
@@ -8482,7 +8504,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1153
+        "ObjectId": 1154
       }
     },
     {
@@ -8504,7 +8526,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1159
+        "ObjectId": 1160
       }
     },
     {
@@ -8526,7 +8548,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1154
+        "ObjectId": 1155
       }
     },
     {
@@ -8548,7 +8570,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1160
+        "ObjectId": 1161
       }
     },
     {
@@ -8570,7 +8592,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1178
+        "ObjectId": 1179
       }
     },
     {
@@ -8592,7 +8614,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1161
+        "ObjectId": 1162
       }
     },
     {
@@ -8614,7 +8636,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1179
+        "ObjectId": 1180
       }
     },
     {
@@ -8636,7 +8658,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1176
+        "ObjectId": 1177
       }
     },
     {
@@ -8658,7 +8680,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1162
+        "ObjectId": 1163
       }
     },
     {
@@ -8680,7 +8702,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1180
+        "ObjectId": 1181
       }
     },
     {
@@ -8702,7 +8724,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1163
+        "ObjectId": 1164
       }
     },
     {
@@ -8724,7 +8746,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1181
+        "ObjectId": 1182
       }
     },
     {
@@ -8746,7 +8768,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1155
+        "ObjectId": 1156
       }
     },
     {
@@ -8768,7 +8790,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1164
+        "ObjectId": 1165
       }
     },
     {
@@ -8790,7 +8812,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1182
+        "ObjectId": 1183
       }
     },
     {
@@ -8812,7 +8834,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1156
+        "ObjectId": 1157
       }
     },
     {
@@ -8834,7 +8856,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1165
+        "ObjectId": 1166
       }
     },
     {
@@ -8856,7 +8878,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1183
+        "ObjectId": 1184
       }
     },
     {
@@ -8876,9 +8898,9 @@
         "Fund": null,
         "City": "Kalispell",
         "DateofPayment": null,
-        "Latitude": "48.197750",
+        "Latitude": "48.19775",
         "Longitude": "-114.31346",
-        "ObjectId": 1195
+        "ObjectId": 1196
       }
     },
     {
@@ -8900,7 +8922,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1166
+        "ObjectId": 1167
       }
     },
     {
@@ -8922,7 +8944,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1184
+        "ObjectId": 1185
       }
     },
     {
@@ -8944,7 +8966,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1157
+        "ObjectId": 1158
       }
     },
     {
@@ -8966,7 +8988,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1167
+        "ObjectId": 1168
       }
     },
     {
@@ -8988,7 +9010,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1185
+        "ObjectId": 1186
       }
     },
     {
@@ -9010,7 +9032,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1168
+        "ObjectId": 1169
       }
     },
     {
@@ -9032,7 +9054,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1186
+        "ObjectId": 1187
       }
     },
     {
@@ -9054,7 +9076,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1169
+        "ObjectId": 1170
       }
     },
     {
@@ -9076,7 +9098,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1187
+        "ObjectId": 1188
       }
     },
     {
@@ -9098,7 +9120,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1170
+        "ObjectId": 1171
       }
     },
     {
@@ -9120,7 +9142,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1188
+        "ObjectId": 1189
       }
     },
     {
@@ -9142,7 +9164,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1171
+        "ObjectId": 1172
       }
     },
     {
@@ -9164,7 +9186,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1172
+        "ObjectId": 1173
       }
     },
     {
@@ -9186,7 +9208,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1189
+        "ObjectId": 1190
       }
     },
     {
@@ -9208,7 +9230,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1173
+        "ObjectId": 1174
       }
     },
     {
@@ -9230,7 +9252,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1190
+        "ObjectId": 1191
       }
     },
     {
@@ -9252,7 +9274,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1174
+        "ObjectId": 1175
       }
     },
     {
@@ -9274,7 +9296,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1158
+        "ObjectId": 1159
       }
     },
     {
@@ -9296,7 +9318,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1175
+        "ObjectId": 1176
       }
     },
     {
@@ -9318,7 +9340,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1191
+        "ObjectId": 1192
       }
     },
     {
@@ -9340,7 +9362,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1192
+        "ObjectId": 1193
       }
     },
     {
@@ -9351,7 +9373,7 @@
         "Shape__Length": 270196.093039796,
         "Unique_ID": "DNRC_RRG_3422155",
         "OrganizationName": "Flaxville, Town of",
-        "County": "Daniels ",
+        "County": "Daniels",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -9360,9 +9382,9 @@
         "Fund": 3920,
         "City": "Fairille,",
         "DateofPayment": null,
-        "Latitude": "48.804590",
+        "Latitude": "48.80459",
         "Longitude": "-105.1748",
-        "ObjectId": 1122
+        "ObjectId": 1123
       }
     },
     {
@@ -9373,7 +9395,7 @@
         "Shape__Length": 513666.509449678,
         "Unique_ID": "DNRC_RRG_3422135",
         "OrganizationName": "Fort Belknap Indian Community",
-        "County": "Blaine ",
+        "County": "Blaine",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -9384,7 +9406,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": "0",
-        "ObjectId": 1022
+        "ObjectId": 1023
       }
     },
     {
@@ -9395,7 +9417,7 @@
         "Shape__Length": 541644.851946863,
         "Unique_ID": "DNRC_RRG_3422176",
         "OrganizationName": "Fort Benton, City of ",
-        "County": "Chouteau ",
+        "County": "Chouteau",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -9404,9 +9426,9 @@
         "Fund": 3920,
         "City": "Fort Benton",
         "DateofPayment": null,
-        "Latitude": "47.494600",
+        "Latitude": "47.4946",
         "Longitude": "-110.3836",
-        "ObjectId": 879
+        "ObjectId": 880
       }
     },
     {
@@ -9417,18 +9439,18 @@
         "Shape__Length": 589962.62525196,
         "Unique_ID": "DNRC_RRG_3422137",
         "OrganizationName": "Fort Peck Tribes",
-        "County": "VALLEY",
+        "County": "Valley",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
         "ProgramName": "Renewable Resource Grant and Loan Program",
         "Subclass": 54040,
         "Fund": 3920,
-        "City": "POPLAR",
+        "City": "Poplar",
         "DateofPayment": null,
-        "Latitude": "48.034697",
+        "Latitude": "48.0346972",
         "Longitude": "-106.003778",
-        "ObjectId": 1108
+        "ObjectId": 1109
       }
     },
     {
@@ -9439,7 +9461,7 @@
         "Shape__Length": 660080.492507688,
         "Unique_ID": "DNRC_RRG_3422110",
         "OrganizationName": "Fort Smith Water & Sewer District",
-        "County": "Big Horn ",
+        "County": "Big Horn",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -9448,7 +9470,7 @@
         "Fund": 3920,
         "City": "Fort Smith",
         "DateofPayment": null,
-        "Latitude": "45.307900",
+        "Latitude": "45.3079",
         "Longitude": "-107.9158",
         "ObjectId": 135
       }
@@ -9470,7 +9492,7 @@
         "Fund": null,
         "City": "Big Sky",
         "DateofPayment": null,
-        "Latitude": "45.307800",
+        "Latitude": "45.3078",
         "Longitude": "-107.9106",
         "ObjectId": 137
       }
@@ -10011,7 +10033,7 @@
         "Shape__Length": 463867.00999569,
         "Unique_ID": "DNRC_RRG_3422107",
         "OrganizationName": "Gardiner Park County Water & Sewer District",
-        "County": "Park ",
+        "County": "Park",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -10020,7 +10042,7 @@
         "Fund": 3920,
         "City": "Gardiner",
         "DateofPayment": null,
-        "Latitude": "45.031880",
+        "Latitude": "45.03188",
         "Longitude": "-110.7058",
         "ObjectId": 191
       }
@@ -10044,7 +10066,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 764
+        "ObjectId": 765
       }
     },
     {
@@ -10066,7 +10088,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 763
+        "ObjectId": 764
       }
     },
     {
@@ -10088,7 +10110,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 765
+        "ObjectId": 766
       }
     },
     {
@@ -10110,7 +10132,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 768
+        "ObjectId": 769
       }
     },
     {
@@ -10132,7 +10154,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 766
+        "ObjectId": 767
       }
     },
     {
@@ -10154,7 +10176,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 767
+        "ObjectId": 768
       }
     },
     {
@@ -10176,7 +10198,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 769
+        "ObjectId": 770
       }
     },
     {
@@ -10198,7 +10220,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 760
+        "ObjectId": 761
       }
     },
     {
@@ -10220,7 +10242,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1126
+        "ObjectId": 1127
       }
     },
     {
@@ -10242,7 +10264,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1130
+        "ObjectId": 1131
       }
     },
     {
@@ -10264,7 +10286,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1135
+        "ObjectId": 1136
       }
     },
     {
@@ -10286,7 +10308,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1128
+        "ObjectId": 1129
       }
     },
     {
@@ -10308,7 +10330,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1131
+        "ObjectId": 1132
       }
     },
     {
@@ -10330,7 +10352,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1136
+        "ObjectId": 1137
       }
     },
     {
@@ -10352,7 +10374,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1129
+        "ObjectId": 1130
       }
     },
     {
@@ -10374,7 +10396,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1132
+        "ObjectId": 1133
       }
     },
     {
@@ -10396,7 +10418,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1137
+        "ObjectId": 1138
       }
     },
     {
@@ -10418,7 +10440,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1138
+        "ObjectId": 1139
       }
     },
     {
@@ -10440,7 +10462,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1133
+        "ObjectId": 1134
       }
     },
     {
@@ -10462,7 +10484,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1139
+        "ObjectId": 1140
       }
     },
     {
@@ -10484,7 +10506,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1134
+        "ObjectId": 1135
       }
     },
     {
@@ -10495,7 +10517,7 @@
         "Shape__Length": 589962.62525196,
         "Unique_ID": "DNRC_RRG_3422162",
         "OrganizationName": "Glasgow Irrigation District",
-        "County": "Valley ",
+        "County": "Valley",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -10504,9 +10526,9 @@
         "Fund": 3920,
         "City": "Fairow Ir",
         "DateofPayment": null,
-        "Latitude": "48.112710",
+        "Latitude": "48.11271",
         "Longitude": "-106.4225",
-        "ObjectId": 1106
+        "ObjectId": 1107
       }
     },
     {
@@ -10517,18 +10539,18 @@
         "Shape__Length": 512824.277495249,
         "Unique_ID": "DNRC_RRG_3422164",
         "OrganizationName": "Glen Lake Irrigation District",
-        "County": "LINCOLN",
+        "County": "Lincoln",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
         "ProgramName": "Renewable Resource Grant and Loan Program",
         "Subclass": 54040,
         "Fund": 3920,
-        "City": "EUREKA",
+        "City": "Eureka",
         "DateofPayment": null,
-        "Latitude": "48.864550",
+        "Latitude": "48.86455",
         "Longitude": "-114.958091",
-        "ObjectId": 1255
+        "ObjectId": 1256
       }
     },
     {
@@ -10539,7 +10561,7 @@
         "Shape__Length": 512824.277495249,
         "Unique_ID": "DNRC_RRG_3422153",
         "OrganizationName": "Glen Lake Irrigation District",
-        "County": "Lincoln ",
+        "County": "Lincoln",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -10548,9 +10570,9 @@
         "Fund": 3920,
         "City": "Eureka",
         "DateofPayment": null,
-        "Latitude": "48.514100",
+        "Latitude": "48.5141",
         "Longitude": "-114.5904",
-        "ObjectId": 1256
+        "ObjectId": 1257
       }
     },
     {
@@ -10572,7 +10594,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1262
+        "ObjectId": 1263
       }
     },
     {
@@ -10594,7 +10616,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1264
+        "ObjectId": 1265
       }
     },
     {
@@ -10704,7 +10726,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1232
+        "ObjectId": 1233
       }
     },
     {
@@ -10878,9 +10900,9 @@
         "Fund": null,
         "City": "Great Falls",
         "DateofPayment": null,
-        "Latitude": "47.515000",
+        "Latitude": "47.515",
         "Longitude": "-111.298",
-        "ObjectId": 686
+        "ObjectId": 687
       }
     },
     {
@@ -10891,7 +10913,7 @@
         "Shape__Length": 419512.162796588,
         "Unique_ID": "DNRC_RRG_3422126",
         "OrganizationName": "Greenfields Irrigation District",
-        "County": "Teton ",
+        "County": "Teton",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -10902,7 +10924,7 @@
         "DateofPayment": null,
         "Latitude": "47.6587833 ",
         "Longitude": "-111.8177194",
-        "ObjectId": 846
+        "ObjectId": 847
       }
     },
     {
@@ -10922,7 +10944,7 @@
         "Fund": null,
         "City": "Hamilton",
         "DateofPayment": null,
-        "Latitude": "46.253600",
+        "Latitude": "46.2536",
         "Longitude": "-114.1726",
         "ObjectId": 418
       }
@@ -10944,9 +10966,9 @@
         "Fund": null,
         "City": "Harlem",
         "DateofPayment": null,
-        "Latitude": "48.690000",
+        "Latitude": "48.69",
         "Longitude": "-108.93",
-        "ObjectId": 1023
+        "ObjectId": 1024
       }
     },
     {
@@ -10957,7 +10979,7 @@
         "Shape__Length": 253605.155237113,
         "Unique_ID": "DNRC_RRG_3422159",
         "OrganizationName": "Harlowton, City of ",
-        "County": "Wheatland ",
+        "County": "Wheatland",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -10966,7 +10988,7 @@
         "Fund": 3920,
         "City": "Harlowton",
         "DateofPayment": null,
-        "Latitude": "46.440000",
+        "Latitude": "46.44",
         "Longitude": "-109.83",
         "ObjectId": 378
       }
@@ -10988,7 +11010,7 @@
         "Fund": null,
         "City": "Harlowton",
         "DateofPayment": null,
-        "Latitude": "46.435900",
+        "Latitude": "46.4359",
         "Longitude": "-109.8349",
         "ObjectId": 379
       }
@@ -11001,7 +11023,7 @@
         "Shape__Length": 408003.140744067,
         "Unique_ID": "DNRC_RRG_3422132",
         "OrganizationName": "Havre, City of ",
-        "County": "Hill ",
+        "County": "Hill",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -11010,9 +11032,9 @@
         "Fund": 3920,
         "City": "Havre",
         "DateofPayment": null,
-        "Latitude": "48.546200",
+        "Latitude": "48.5462",
         "Longitude": "-109.662",
-        "ObjectId": 996
+        "ObjectId": 997
       }
     },
     {
@@ -11023,7 +11045,7 @@
         "Shape__Length": 648479.592804696,
         "Unique_ID": "DNRC_RRG_3422115",
         "OrganizationName": "Helena Valley Irrigation District",
-        "County": "Lewis and Clark ",
+        "County": "Lewis and Clark",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -11032,9 +11054,9 @@
         "Fund": 3920,
         "City": "Eureka",
         "DateofPayment": null,
-        "Latitude": "46.708180",
+        "Latitude": "46.70818",
         "Longitude": "-111.9148",
-        "ObjectId": 753
+        "ObjectId": 754
       }
     },
     {
@@ -11045,7 +11067,7 @@
         "Shape__Length": 648479.592804696,
         "Unique_ID": "DNRC_RRG_3422127",
         "OrganizationName": "Helena Valley Irrigation District",
-        "County": "Lewis and Clark ",
+        "County": "Lewis and Clark",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -11056,7 +11078,7 @@
         "DateofPayment": null,
         "Latitude": "46.636653",
         "Longitude": "-111.883956",
-        "ObjectId": 754
+        "ObjectId": 755
       }
     },
     {
@@ -11076,9 +11098,9 @@
         "Fund": null,
         "City": "Helena",
         "DateofPayment": null,
-        "Latitude": "46.605200",
+        "Latitude": "46.6052",
         "Longitude": "-111.9957",
-        "ObjectId": 757
+        "ObjectId": 758
       }
     },
     {
@@ -11100,7 +11122,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1148
+        "ObjectId": 1149
       }
     },
     {
@@ -11122,7 +11144,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1039
+        "ObjectId": 1040
       }
     },
     {
@@ -11144,7 +11166,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 980
+        "ObjectId": 981
       }
     },
     {
@@ -11166,7 +11188,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 982
+        "ObjectId": 983
       }
     },
     {
@@ -11188,7 +11210,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 989
+        "ObjectId": 990
       }
     },
     {
@@ -11210,7 +11232,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 983
+        "ObjectId": 984
       }
     },
     {
@@ -11232,7 +11254,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 990
+        "ObjectId": 991
       }
     },
     {
@@ -11254,7 +11276,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 981
+        "ObjectId": 982
       }
     },
     {
@@ -11276,7 +11298,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 984
+        "ObjectId": 985
       }
     },
     {
@@ -11298,7 +11320,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 991
+        "ObjectId": 992
       }
     },
     {
@@ -11309,18 +11331,18 @@
         "Shape__Length": 408003.140744067,
         "Unique_ID": "DNRC_RRG_3422139",
         "OrganizationName": "Hill County",
-        "County": "HILL",
+        "County": "Hill",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
         "ProgramName": "Renewable Resource Grant and Loan Program",
         "Subclass": 54040,
         "Fund": 3920,
-        "City": "HAVRE",
+        "City": "Havre",
         "DateofPayment": null,
-        "Latitude": "48.411100",
+        "Latitude": "48.4111",
         "Longitude": "-109.7174",
-        "ObjectId": 997
+        "ObjectId": 998
       }
     },
     {
@@ -11340,9 +11362,9 @@
         "Fund": null,
         "City": "Havre",
         "DateofPayment": null,
-        "Latitude": "48.554300",
+        "Latitude": "48.5543",
         "Longitude": "-110.42259",
-        "ObjectId": 999
+        "ObjectId": 1000
       }
     },
     {
@@ -11364,7 +11386,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 985
+        "ObjectId": 986
       }
     },
     {
@@ -11386,7 +11408,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 992
+        "ObjectId": 993
       }
     },
     {
@@ -11408,7 +11430,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 986
+        "ObjectId": 987
       }
     },
     {
@@ -11430,7 +11452,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 993
+        "ObjectId": 994
       }
     },
     {
@@ -11452,7 +11474,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 987
+        "ObjectId": 988
       }
     },
     {
@@ -11474,7 +11496,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 994
+        "ObjectId": 995
       }
     },
     {
@@ -11496,7 +11518,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 988
+        "ObjectId": 989
       }
     },
     {
@@ -11518,7 +11540,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 995
+        "ObjectId": 996
       }
     },
     {
@@ -11540,7 +11562,7 @@
         "DateofPayment": null,
         "Latitude": "48.549999",
         "Longitude": "-109.6840887",
-        "ObjectId": 979
+        "ObjectId": 980
       }
     },
     {
@@ -11562,7 +11584,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 607
+        "ObjectId": 608
       }
     },
     {
@@ -11582,9 +11604,9 @@
         "Fund": null,
         "City": "Hobson",
         "DateofPayment": null,
-        "Latitude": "47.001217",
+        "Latitude": "47.0012167",
         "Longitude": "-109.8652139",
-        "ObjectId": 544
+        "ObjectId": 545
       }
     },
     {
@@ -11650,7 +11672,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 887
+        "ObjectId": 888
       }
     },
     {
@@ -11661,14 +11683,14 @@
         "Shape__Length": 467860.355750048,
         "Unique_ID": "DNRC_RRG_3422171",
         "OrganizationName": "Huntley Project Irrigation District",
-        "County": "YELLOWSTONE",
+        "County": "Yellowstone",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
         "ProgramName": "Renewable Resource Grant and Loan Program",
         "Subclass": 54040,
         "Fund": 3920,
-        "City": "BALLANTINE",
+        "City": "Ballantine",
         "DateofPayment": null,
         "Latitude": "45.873887",
         "Longitude": "-108.353021",
@@ -11694,7 +11716,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1147
+        "ObjectId": 1148
       }
     },
     {
@@ -11716,7 +11738,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 583
+        "ObjectId": 584
       }
     },
     {
@@ -11738,7 +11760,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 654
+        "ObjectId": 655
       }
     },
     {
@@ -12101,7 +12123,7 @@
         "Shape__Length": 427705.4548582,
         "Unique_ID": "DNRC_RRG_3422174",
         "OrganizationName": "Joliet, Town of ",
-        "County": "Carbon ",
+        "County": "Carbon",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -12132,7 +12154,7 @@
         "Fund": null,
         "City": "Joliet",
         "DateofPayment": null,
-        "Latitude": "45.048300",
+        "Latitude": "45.0483",
         "Longitude": "-108.9722",
         "ObjectId": 33
       }
@@ -12154,9 +12176,9 @@
         "Fund": null,
         "City": "Jordan",
         "DateofPayment": null,
-        "Latitude": "47.320000",
+        "Latitude": "47.32",
         "Longitude": "-106.9",
-        "ObjectId": 770
+        "ObjectId": 771
       }
     },
     {
@@ -12178,7 +12200,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 533
+        "ObjectId": 534
       }
     },
     {
@@ -12200,7 +12222,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 538
+        "ObjectId": 539
       }
     },
     {
@@ -12222,7 +12244,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 534
+        "ObjectId": 535
       }
     },
     {
@@ -12244,7 +12266,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 535
+        "ObjectId": 536
       }
     },
     {
@@ -12266,7 +12288,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 539
+        "ObjectId": 540
       }
     },
     {
@@ -12288,7 +12310,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 536
+        "ObjectId": 537
       }
     },
     {
@@ -12310,7 +12332,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 540
+        "ObjectId": 541
       }
     },
     {
@@ -12332,7 +12354,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 532
+        "ObjectId": 533
       }
     },
     {
@@ -12354,7 +12376,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 537
+        "ObjectId": 538
       }
     },
     {
@@ -12376,7 +12398,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 541
+        "ObjectId": 542
       }
     },
     {
@@ -12398,7 +12420,7 @@
         "DateofPayment": null,
         "Latitude": "48.191479",
         "Longitude": "-114.32358",
-        "ObjectId": 1196
+        "ObjectId": 1197
       }
     },
     {
@@ -12420,7 +12442,7 @@
         "DateofPayment": null,
         "Latitude": "48.207862",
         "Longitude": "-114.317342",
-        "ObjectId": 1197
+        "ObjectId": 1198
       }
     },
     {
@@ -12440,9 +12462,9 @@
         "Fund": null,
         "City": "Kalispell",
         "DateofPayment": null,
-        "Latitude": "48.183330",
+        "Latitude": "48.18333",
         "Longitude": "-114.312393",
-        "ObjectId": 1198
+        "ObjectId": 1199
       }
     },
     {
@@ -12464,7 +12486,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 780
+        "ObjectId": 781
       }
     },
     {
@@ -12486,7 +12508,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 786
+        "ObjectId": 787
       }
     },
     {
@@ -12508,7 +12530,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 799
+        "ObjectId": 800
       }
     },
     {
@@ -12530,7 +12552,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 787
+        "ObjectId": 788
       }
     },
     {
@@ -12552,7 +12574,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 800
+        "ObjectId": 801
       }
     },
     {
@@ -12574,7 +12596,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 781
+        "ObjectId": 782
       }
     },
     {
@@ -12596,7 +12618,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 788
+        "ObjectId": 789
       }
     },
     {
@@ -12618,7 +12640,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 801
+        "ObjectId": 802
       }
     },
     {
@@ -12640,7 +12662,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 789
+        "ObjectId": 790
       }
     },
     {
@@ -12662,7 +12684,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 802
+        "ObjectId": 803
       }
     },
     {
@@ -12684,7 +12706,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 790
+        "ObjectId": 791
       }
     },
     {
@@ -12706,7 +12728,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 803
+        "ObjectId": 804
       }
     },
     {
@@ -12728,7 +12750,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 791
+        "ObjectId": 792
       }
     },
     {
@@ -12750,7 +12772,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 804
+        "ObjectId": 805
       }
     },
     {
@@ -12772,7 +12794,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 782
+        "ObjectId": 783
       }
     },
     {
@@ -12794,7 +12816,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 792
+        "ObjectId": 793
       }
     },
     {
@@ -12816,7 +12838,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 805
+        "ObjectId": 806
       }
     },
     {
@@ -12838,7 +12860,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 783
+        "ObjectId": 784
       }
     },
     {
@@ -12860,7 +12882,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 793
+        "ObjectId": 794
       }
     },
     {
@@ -12882,7 +12904,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 806
+        "ObjectId": 807
       }
     },
     {
@@ -12904,7 +12926,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 794
+        "ObjectId": 795
       }
     },
     {
@@ -12926,7 +12948,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 807
+        "ObjectId": 808
       }
     },
     {
@@ -12948,7 +12970,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 795
+        "ObjectId": 796
       }
     },
     {
@@ -12970,7 +12992,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 808
+        "ObjectId": 809
       }
     },
     {
@@ -12992,7 +13014,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 796
+        "ObjectId": 797
       }
     },
     {
@@ -13014,7 +13036,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 809
+        "ObjectId": 810
       }
     },
     {
@@ -13036,7 +13058,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 784
+        "ObjectId": 785
       }
     },
     {
@@ -13058,7 +13080,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 797
+        "ObjectId": 798
       }
     },
     {
@@ -13080,7 +13102,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 810
+        "ObjectId": 811
       }
     },
     {
@@ -13102,7 +13124,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 798
+        "ObjectId": 799
       }
     },
     {
@@ -13124,7 +13146,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 811
+        "ObjectId": 812
       }
     },
     {
@@ -13146,7 +13168,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 785
+        "ObjectId": 786
       }
     },
     {
@@ -13166,9 +13188,9 @@
         "Fund": null,
         "City": "Lakeside",
         "DateofPayment": null,
-        "Latitude": "48.019400",
+        "Latitude": "48.0194",
         "Longitude": "-114.2246",
-        "ObjectId": 1199
+        "ObjectId": 1200
       }
     },
     {
@@ -13190,7 +13212,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1144
+        "ObjectId": 1145
       }
     },
     {
@@ -13223,7 +13245,7 @@
         "Shape__Length": 648479.592804696,
         "Unique_ID": "DNRC_RRG_3422112",
         "OrganizationName": "Lewis and Clark Conservation District",
-        "County": "Lewis and Clark ",
+        "County": "Lewis and Clark",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -13234,7 +13256,7 @@
         "DateofPayment": null,
         "Latitude": "46.79052 ",
         "Longitude": "-111.88601",
-        "ObjectId": 755
+        "ObjectId": 756
       }
     },
     {
@@ -13256,7 +13278,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 731
+        "ObjectId": 732
       }
     },
     {
@@ -13278,7 +13300,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 735
+        "ObjectId": 736
       }
     },
     {
@@ -13300,7 +13322,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 744
+        "ObjectId": 745
       }
     },
     {
@@ -13322,7 +13344,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 736
+        "ObjectId": 737
       }
     },
     {
@@ -13344,7 +13366,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 745
+        "ObjectId": 746
       }
     },
     {
@@ -13366,7 +13388,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 737
+        "ObjectId": 738
       }
     },
     {
@@ -13388,7 +13410,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 732
+        "ObjectId": 733
       }
     },
     {
@@ -13410,7 +13432,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 738
+        "ObjectId": 739
       }
     },
     {
@@ -13432,7 +13454,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 746
+        "ObjectId": 747
       }
     },
     {
@@ -13454,7 +13476,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 739
+        "ObjectId": 740
       }
     },
     {
@@ -13476,7 +13498,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 747
+        "ObjectId": 748
       }
     },
     {
@@ -13498,7 +13520,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 733
+        "ObjectId": 734
       }
     },
     {
@@ -13520,7 +13542,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 740
+        "ObjectId": 741
       }
     },
     {
@@ -13542,7 +13564,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 748
+        "ObjectId": 749
       }
     },
     {
@@ -13562,9 +13584,9 @@
         "Fund": null,
         "City": "Helena",
         "DateofPayment": null,
-        "Latitude": "47.466600",
+        "Latitude": "47.4666",
         "Longitude": "-112.3221",
-        "ObjectId": 758
+        "ObjectId": 759
       }
     },
     {
@@ -13586,7 +13608,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 734
+        "ObjectId": 735
       }
     },
     {
@@ -13608,7 +13630,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 741
+        "ObjectId": 742
       }
     },
     {
@@ -13630,7 +13652,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 749
+        "ObjectId": 750
       }
     },
     {
@@ -13652,7 +13674,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 742
+        "ObjectId": 743
       }
     },
     {
@@ -13674,7 +13696,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 743
+        "ObjectId": 744
       }
     },
     {
@@ -13696,7 +13718,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 750
+        "ObjectId": 751
       }
     },
     {
@@ -13707,7 +13729,7 @@
         "Shape__Length": 621522.336682147,
         "Unique_ID": "DNRC_RRG_3422173",
         "OrganizationName": "Lewistown, City Of",
-        "County": "Fergus ",
+        "County": "Fergus",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -13716,9 +13738,9 @@
         "Fund": 3920,
         "City": "Lewistown",
         "DateofPayment": null,
-        "Latitude": "47.073900",
+        "Latitude": "47.0739",
         "Longitude": "-109.4418",
-        "ObjectId": 717
+        "ObjectId": 718
       }
     },
     {
@@ -13729,7 +13751,7 @@
         "Shape__Length": 621522.336682147,
         "Unique_ID": "DNRC_RRG_3422163",
         "OrganizationName": "Lewistown, City Of",
-        "County": "Fergus ",
+        "County": "Fergus",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -13738,9 +13760,9 @@
         "Fund": 3920,
         "City": "Lewistown",
         "DateofPayment": null,
-        "Latitude": "47.073900",
+        "Latitude": "47.0739",
         "Longitude": "-109.4418",
-        "ObjectId": 718
+        "ObjectId": 719
       }
     },
     {
@@ -13760,9 +13782,9 @@
         "Fund": null,
         "City": "Lewistown",
         "DateofPayment": null,
-        "Latitude": "47.073800",
+        "Latitude": "47.0738",
         "Longitude": "-109.4393",
-        "ObjectId": 720
+        "ObjectId": 721
       }
     },
     {
@@ -13784,7 +13806,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1234
+        "ObjectId": 1235
       }
     },
     {
@@ -13795,7 +13817,7 @@
         "Shape__Length": 512824.277495249,
         "Unique_ID": "DNRC_RRG_3422122",
         "OrganizationName": "Libby, City of ",
-        "County": "Lincoln ",
+        "County": "Lincoln",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -13804,9 +13826,9 @@
         "Fund": 3920,
         "City": "Libby",
         "DateofPayment": null,
-        "Latitude": "48.388160",
+        "Latitude": "48.38816",
         "Longitude": "-115.556",
-        "ObjectId": 1257
+        "ObjectId": 1258
       }
     },
     {
@@ -13828,7 +13850,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1027
+        "ObjectId": 1028
       }
     },
     {
@@ -13850,7 +13872,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1028
+        "ObjectId": 1029
       }
     },
     {
@@ -13872,7 +13894,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1031
+        "ObjectId": 1032
       }
     },
     {
@@ -13894,7 +13916,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1029
+        "ObjectId": 1030
       }
     },
     {
@@ -13916,7 +13938,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1032
+        "ObjectId": 1033
       }
     },
     {
@@ -13938,7 +13960,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1030
+        "ObjectId": 1031
       }
     },
     {
@@ -13960,7 +13982,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1033
+        "ObjectId": 1034
       }
     },
     {
@@ -13982,7 +14004,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1034
+        "ObjectId": 1035
       }
     },
     {
@@ -14004,7 +14026,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1025
+        "ObjectId": 1026
       }
     },
     {
@@ -14026,7 +14048,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1237
+        "ObjectId": 1238
       }
     },
     {
@@ -14048,7 +14070,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1241
+        "ObjectId": 1242
       }
     },
     {
@@ -14070,7 +14092,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1248
+        "ObjectId": 1249
       }
     },
     {
@@ -14092,7 +14114,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1238
+        "ObjectId": 1239
       }
     },
     {
@@ -14114,7 +14136,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1242
+        "ObjectId": 1243
       }
     },
     {
@@ -14136,7 +14158,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1249
+        "ObjectId": 1250
       }
     },
     {
@@ -14158,7 +14180,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1239
+        "ObjectId": 1240
       }
     },
     {
@@ -14180,7 +14202,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1243
+        "ObjectId": 1244
       }
     },
     {
@@ -14202,7 +14224,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1250
+        "ObjectId": 1251
       }
     },
     {
@@ -14222,9 +14244,9 @@
         "Fund": null,
         "City": "Libby",
         "DateofPayment": null,
-        "Latitude": "48.232600",
+        "Latitude": "48.2326",
         "Longitude": "-115.3388",
-        "ObjectId": 1258
+        "ObjectId": 1259
       }
     },
     {
@@ -14246,7 +14268,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1244
+        "ObjectId": 1245
       }
     },
     {
@@ -14268,7 +14290,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1251
+        "ObjectId": 1252
       }
     },
     {
@@ -14290,7 +14312,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1245
+        "ObjectId": 1246
       }
     },
     {
@@ -14312,7 +14334,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1252
+        "ObjectId": 1253
       }
     },
     {
@@ -14334,7 +14356,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1246
+        "ObjectId": 1247
       }
     },
     {
@@ -14356,7 +14378,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1253
+        "ObjectId": 1254
       }
     },
     {
@@ -14378,7 +14400,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1240
+        "ObjectId": 1241
       }
     },
     {
@@ -14400,7 +14422,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1247
+        "ObjectId": 1248
       }
     },
     {
@@ -14422,7 +14444,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1254
+        "ObjectId": 1255
       }
     },
     {
@@ -14499,7 +14521,7 @@
         "Shape__Length": 467860.355750048,
         "Unique_ID": "DNRC_RRG_3422113",
         "OrganizationName": "Lockwood Water and Sewer District",
-        "County": "Yellowstone ",
+        "County": "Yellowstone",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -14508,7 +14530,7 @@
         "Fund": 3920,
         "City": "Lockwood",
         "DateofPayment": null,
-        "Latitude": "45.819120",
+        "Latitude": "45.81912",
         "Longitude": "-108.4149",
         "ObjectId": 325
       }
@@ -14530,7 +14552,7 @@
         "Fund": null,
         "City": "Lodge Grass",
         "DateofPayment": null,
-        "Latitude": "45.314600",
+        "Latitude": "45.3146",
         "Longitude": "-107.3636",
         "ObjectId": 138
       }
@@ -14554,7 +14576,7 @@
         "DateofPayment": null,
         "Latitude": "47.9369164",
         "Longitude": "-110.5035455",
-        "ObjectId": 857
+        "ObjectId": 858
       }
     },
     {
@@ -14565,14 +14587,14 @@
         "Shape__Length": 343259.987142224,
         "Unique_ID": "DNRC_RRG_3422129",
         "OrganizationName": "Lower Musselshell County Conservation District",
-        "County": "MUSSELSHELL",
+        "County": "Musselshell",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
         "ProgramName": "Renewable Resource Grant and Loan Program",
         "Subclass": 54040,
         "Fund": 3920,
-        "City": "ROUNDUP",
+        "City": "Roundup",
         "DateofPayment": null,
         "Latitude": "46.311211",
         "Longitude": "-108.051985",
@@ -14598,7 +14620,7 @@
         "DateofPayment": null,
         "Latitude": "47.997322",
         "Longitude": "-104.086625",
-        "ObjectId": 1295
+        "ObjectId": 1296
       }
     },
     {
@@ -15170,7 +15192,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 660
+        "ObjectId": 661
       }
     },
     {
@@ -15181,7 +15203,7 @@
         "Shape__Length": 638854.941930691,
         "Unique_ID": "DNRC_RRG_3422161",
         "OrganizationName": "Malta Irrigation District",
-        "County": "Phillips ",
+        "County": "Phillips",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -15192,7 +15214,7 @@
         "DateofPayment": null,
         "Latitude": "48.354555",
         "Longitude": "-108.008641",
-        "ObjectId": 1057
+        "ObjectId": 1058
       }
     },
     {
@@ -15203,7 +15225,7 @@
         "Shape__Length": 542863.248960951,
         "Unique_ID": "DNRC_RRG_3422114",
         "OrganizationName": "Manhattan, Town of ",
-        "County": "Gallatin ",
+        "County": "Gallatin",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -15212,7 +15234,7 @@
         "Fund": 3920,
         "City": "Manhattan",
         "DateofPayment": null,
-        "Latitude": "45.857670",
+        "Latitude": "45.85767",
         "Longitude": "-111.331",
         "ObjectId": 227
       }
@@ -15234,7 +15256,7 @@
         "Fund": null,
         "City": "Manhattan",
         "DateofPayment": null,
-        "Latitude": "45.857200",
+        "Latitude": "45.8572",
         "Longitude": "-111.3324",
         "ObjectId": 231
       }
@@ -15280,7 +15302,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1062
+        "ObjectId": 1063
       }
     },
     {
@@ -15302,7 +15324,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 818
+        "ObjectId": 819
       }
     },
     {
@@ -15324,7 +15346,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 820
+        "ObjectId": 821
       }
     },
     {
@@ -15346,7 +15368,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 817
+        "ObjectId": 818
       }
     },
     {
@@ -15368,7 +15390,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 819
+        "ObjectId": 820
       }
     },
     {
@@ -15390,7 +15412,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 821
+        "ObjectId": 822
       }
     },
     {
@@ -15412,7 +15434,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 822
+        "ObjectId": 823
       }
     },
     {
@@ -15434,7 +15456,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 814
+        "ObjectId": 815
       }
     },
     {
@@ -15456,7 +15478,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 514
+        "ObjectId": 515
       }
     },
     {
@@ -15478,7 +15500,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 517
+        "ObjectId": 518
       }
     },
     {
@@ -15500,7 +15522,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 515
+        "ObjectId": 516
       }
     },
     {
@@ -15522,7 +15544,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 518
+        "ObjectId": 519
       }
     },
     {
@@ -15544,7 +15566,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 513
+        "ObjectId": 514
       }
     },
     {
@@ -15566,7 +15588,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 516
+        "ObjectId": 517
       }
     },
     {
@@ -15588,7 +15610,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 519
+        "ObjectId": 520
       }
     },
     {
@@ -15599,7 +15621,7 @@
         "Shape__Length": 482663.231583736,
         "Unique_ID": "20769175",
         "OrganizationName": "Miles City, City of",
-        "County": "Custer ",
+        "County": "Custer",
         "AmountAwarded": 2000000,
         "AmountPaid": 0,
         "AgencyName": " DNRC ",
@@ -15608,9 +15630,9 @@
         "Fund": null,
         "City": "Miles City",
         "DateofPayment": null,
-        "Latitude": "46.413000",
+        "Latitude": "46.413",
         "Longitude": "-105.854",
-        "ObjectId": 508
+        "ObjectId": 509
       }
     },
     {
@@ -15621,18 +15643,18 @@
         "Shape__Length": 408003.140744067,
         "Unique_ID": "DNRC_RRG_3422106",
         "OrganizationName": "Milk River Joint Board of Control",
-        "County": "HILL",
+        "County": "Hill",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
         "ProgramName": "Renewable Resource Grant and Loan Program",
         "Subclass": 54040,
         "Fund": 3920,
-        "City": "HAVRE",
+        "City": "Havre",
         "DateofPayment": null,
         "Latitude": "48.510705 ",
         "Longitude": "-113.245843",
-        "ObjectId": 998
+        "ObjectId": 999
       }
     },
     {
@@ -15654,7 +15676,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 569
+        "ObjectId": 570
       }
     },
     {
@@ -15676,7 +15698,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 575
+        "ObjectId": 576
       }
     },
     {
@@ -15698,7 +15720,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 570
+        "ObjectId": 571
       }
     },
     {
@@ -15720,7 +15742,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 576
+        "ObjectId": 577
       }
     },
     {
@@ -15742,7 +15764,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 571
+        "ObjectId": 572
       }
     },
     {
@@ -15764,7 +15786,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 577
+        "ObjectId": 578
       }
     },
     {
@@ -15786,7 +15808,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 572
+        "ObjectId": 573
       }
     },
     {
@@ -15808,7 +15830,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 573
+        "ObjectId": 574
       }
     },
     {
@@ -15830,7 +15852,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 578
+        "ObjectId": 579
       }
     },
     {
@@ -15852,7 +15874,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 579
+        "ObjectId": 580
       }
     },
     {
@@ -15874,7 +15896,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 568
+        "ObjectId": 569
       }
     },
     {
@@ -15896,7 +15918,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 574
+        "ObjectId": 575
       }
     },
     {
@@ -15918,7 +15940,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 580
+        "ObjectId": 581
       }
     },
     {
@@ -15940,7 +15962,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 565
+        "ObjectId": 566
       }
     },
     {
@@ -15962,7 +15984,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 617
+        "ObjectId": 618
       }
     },
     {
@@ -15984,7 +16006,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 628
+        "ObjectId": 629
       }
     },
     {
@@ -16006,7 +16028,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 612
+        "ObjectId": 613
       }
     },
     {
@@ -16028,7 +16050,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 618
+        "ObjectId": 619
       }
     },
     {
@@ -16050,7 +16072,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 629
+        "ObjectId": 630
       }
     },
     {
@@ -16072,7 +16094,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 619
+        "ObjectId": 620
       }
     },
     {
@@ -16094,7 +16116,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 630
+        "ObjectId": 631
       }
     },
     {
@@ -16116,7 +16138,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 631
+        "ObjectId": 632
       }
     },
     {
@@ -16138,7 +16160,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 613
+        "ObjectId": 614
       }
     },
     {
@@ -16160,7 +16182,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 620
+        "ObjectId": 621
       }
     },
     {
@@ -16182,7 +16204,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 632
+        "ObjectId": 633
       }
     },
     {
@@ -16204,7 +16226,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 621
+        "ObjectId": 622
       }
     },
     {
@@ -16226,7 +16248,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 633
+        "ObjectId": 634
       }
     },
     {
@@ -16248,7 +16270,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 622
+        "ObjectId": 623
       }
     },
     {
@@ -16270,7 +16292,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 634
+        "ObjectId": 635
       }
     },
     {
@@ -16292,7 +16314,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 614
+        "ObjectId": 615
       }
     },
     {
@@ -16314,7 +16336,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 623
+        "ObjectId": 624
       }
     },
     {
@@ -16336,7 +16358,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 635
+        "ObjectId": 636
       }
     },
     {
@@ -16358,7 +16380,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 624
+        "ObjectId": 625
       }
     },
     {
@@ -16380,7 +16402,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 636
+        "ObjectId": 637
       }
     },
     {
@@ -16402,7 +16424,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 615
+        "ObjectId": 616
       }
     },
     {
@@ -16424,7 +16446,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 625
+        "ObjectId": 626
       }
     },
     {
@@ -16446,7 +16468,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 637
+        "ObjectId": 638
       }
     },
     {
@@ -16457,7 +16479,7 @@
         "Shape__Length": 550983.557398275,
         "Unique_ID": "DNRC_RRG_3422134",
         "OrganizationName": "Missoula County",
-        "County": "Missoula ",
+        "County": "Missoula",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -16468,7 +16490,7 @@
         "DateofPayment": null,
         "Latitude": "46.93 ",
         "Longitude": "-114.14",
-        "ObjectId": 641
+        "ObjectId": 642
       }
     },
     {
@@ -16490,7 +16512,7 @@
         "DateofPayment": null,
         "Latitude": "46.932206",
         "Longitude": "-114.103505",
-        "ObjectId": 643
+        "ObjectId": 644
       }
     },
     {
@@ -16512,7 +16534,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 626
+        "ObjectId": 627
       }
     },
     {
@@ -16534,7 +16556,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 638
+        "ObjectId": 639
       }
     },
     {
@@ -16556,7 +16578,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 616
+        "ObjectId": 617
       }
     },
     {
@@ -16578,7 +16600,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 627
+        "ObjectId": 628
       }
     },
     {
@@ -16600,7 +16622,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 639
+        "ObjectId": 640
       }
     },
     {
@@ -16620,9 +16642,9 @@
         "Fund": null,
         "City": "Missoula",
         "DateofPayment": null,
-        "Latitude": "46.757400",
+        "Latitude": "46.7574",
         "Longitude": "-114.0813",
-        "ObjectId": 644
+        "ObjectId": 645
       }
     },
     {
@@ -16644,7 +16666,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 609
+        "ObjectId": 610
       }
     },
     {
@@ -16664,9 +16686,9 @@
         "Fund": null,
         "City": "Missoula",
         "DateofPayment": null,
-        "Latitude": "46.897200",
+        "Latitude": "46.8972",
         "Longitude": "-114.0846",
-        "ObjectId": 645
+        "ObjectId": 646
       }
     },
     {
@@ -16686,9 +16708,9 @@
         "Fund": null,
         "City": "Missoula",
         "DateofPayment": null,
-        "Latitude": "46.820000",
+        "Latitude": "46.82",
         "Longitude": "-114.043",
-        "ObjectId": 646
+        "ObjectId": 647
       }
     },
     {
@@ -16699,7 +16721,7 @@
         "Shape__Length": 550983.557398275,
         "Unique_ID": "DNRC_RRG_3422133",
         "OrganizationName": "Missoula, City of Parks and Recreation Department",
-        "County": "Missoula ",
+        "County": "Missoula",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -16708,9 +16730,9 @@
         "Fund": 3920,
         "City": "Missoula",
         "DateofPayment": null,
-        "Latitude": "45.018630",
+        "Latitude": "45.01863",
         "Longitude": "-113.921",
-        "ObjectId": 642
+        "ObjectId": 643
       }
     },
     {
@@ -16732,7 +16754,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 855
+        "ObjectId": 856
       }
     },
     {
@@ -16752,7 +16774,7 @@
         "Fund": null,
         "City": "Clancy",
         "DateofPayment": null,
-        "Latitude": "46.537800",
+        "Latitude": "46.5378",
         "Longitude": "-111.9338",
         "ObjectId": 354
       }
@@ -16765,18 +16787,18 @@
         "Shape__Length": 486568.370430574,
         "Unique_ID": "DNRC_RRG_3422111",
         "OrganizationName": "Montana Department of Corrections",
-        "County": "POWELL",
+        "County": "Powell",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
         "ProgramName": "Renewable Resource Grant and Loan Program",
         "Subclass": 54040,
         "Fund": 3920,
-        "City": "DEER LODGE",
+        "City": "Deer Lodge",
         "DateofPayment": null,
         "Latitude": "43.35468",
         "Longitude": "-112.85022",
-        "ObjectId": 603
+        "ObjectId": 604
       }
     },
     {
@@ -16798,7 +16820,7 @@
         "DateofPayment": null,
         "Latitude": "46.382982",
         "Longitude": "-112.801331",
-        "ObjectId": 604
+        "ObjectId": 605
       }
     },
     {
@@ -16820,7 +16842,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1145
+        "ObjectId": 1146
       }
     },
     {
@@ -16842,7 +16864,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 777
+        "ObjectId": 778
       }
     },
     {
@@ -16864,7 +16886,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 511
+        "ObjectId": 512
       }
     },
     {
@@ -17040,7 +17062,7 @@
         "DateofPayment": null,
         "Latitude": "48.4022 ",
         "Longitude": "-106.5328",
-        "ObjectId": 1107
+        "ObjectId": 1108
       }
     },
     {
@@ -17062,7 +17084,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1149
+        "ObjectId": 1150
       }
     },
     {
@@ -17084,7 +17106,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 954
+        "ObjectId": 955
       }
     },
     {
@@ -17106,7 +17128,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 976
+        "ObjectId": 977
       }
     },
     {
@@ -17128,7 +17150,7 @@
         "DateofPayment": null,
         "Latitude": "46.654883",
         "Longitude": "-111.717383",
-        "ObjectId": 730
+        "ObjectId": 731
       }
     },
     {
@@ -17139,7 +17161,7 @@
         "Shape__Length": 513666.509449678,
         "Unique_ID": "DNRC_RRG_3422179",
         "OrganizationName": "Paradise Valley Irrigation District",
-        "County": "Blaine ",
+        "County": "Blaine",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -17148,9 +17170,9 @@
         "Fund": 3920,
         "City": "Eureka",
         "DateofPayment": null,
-        "Latitude": "48.574430",
+        "Latitude": "48.57443",
         "Longitude": "-109.068",
-        "ObjectId": 1021
+        "ObjectId": 1022
       }
     },
     {
@@ -17434,7 +17456,7 @@
         "Fund": null,
         "City": "Livingston",
         "DateofPayment": null,
-        "Latitude": "45.997240",
+        "Latitude": "45.99724",
         "Longitude": "-110.66025",
         "ObjectId": 192
       }
@@ -17590,7 +17612,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 653
+        "ObjectId": 654
       }
     },
     {
@@ -17634,7 +17656,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 557
+        "ObjectId": 558
       }
     },
     {
@@ -17656,7 +17678,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 559
+        "ObjectId": 560
       }
     },
     {
@@ -17678,7 +17700,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 556
+        "ObjectId": 557
       }
     },
     {
@@ -17700,7 +17722,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 558
+        "ObjectId": 559
       }
     },
     {
@@ -17722,7 +17744,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 560
+        "ObjectId": 561
       }
     },
     {
@@ -17742,7 +17764,7 @@
         "Fund": null,
         "City": "Philipsburg",
         "DateofPayment": null,
-        "Latitude": "46.348184",
+        "Latitude": "46.34818394",
         "Longitude": "-113.3173976",
         "ObjectId": 493
       }
@@ -17755,14 +17777,14 @@
         "Shape__Length": 353779.323123392,
         "Unique_ID": "DNRC_RDG_3422201",
         "OrganizationName": "Philipsburg, Town of ",
-        "County": "GRANITE",
+        "County": "Granite",
         "AmountAwarded": 429000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
         "ProgramName": "Reclamation and Development Grants (HB 7)",
         "Subclass": 54040,
         "Fund": 3920,
-        "City": "PHILIPSBURG",
+        "City": "Philipsburg",
         "DateofPayment": null,
         "Latitude": "46.3482",
         "Longitude": "-113.318",
@@ -17788,7 +17810,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1045
+        "ObjectId": 1046
       }
     },
     {
@@ -17810,7 +17832,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1051
+        "ObjectId": 1052
       }
     },
     {
@@ -17832,7 +17854,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1046
+        "ObjectId": 1047
       }
     },
     {
@@ -17854,7 +17876,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1052
+        "ObjectId": 1053
       }
     },
     {
@@ -17876,7 +17898,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1043
+        "ObjectId": 1044
       }
     },
     {
@@ -17898,7 +17920,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1047
+        "ObjectId": 1048
       }
     },
     {
@@ -17920,7 +17942,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1053
+        "ObjectId": 1054
       }
     },
     {
@@ -17942,7 +17964,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1048
+        "ObjectId": 1049
       }
     },
     {
@@ -17964,7 +17986,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1054
+        "ObjectId": 1055
       }
     },
     {
@@ -17986,7 +18008,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1049
+        "ObjectId": 1050
       }
     },
     {
@@ -18008,7 +18030,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1055
+        "ObjectId": 1056
       }
     },
     {
@@ -18030,7 +18052,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1044
+        "ObjectId": 1045
       }
     },
     {
@@ -18052,7 +18074,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1050
+        "ObjectId": 1051
       }
     },
     {
@@ -18074,7 +18096,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1056
+        "ObjectId": 1057
       }
     },
     {
@@ -18096,7 +18118,7 @@
         "DateofPayment": null,
         "Latitude": "48.4571957",
         "Longitude": "-107.3420829",
-        "ObjectId": 1041
+        "ObjectId": 1042
       }
     },
     {
@@ -18160,9 +18182,9 @@
         "Fund": null,
         "City": "Plains",
         "DateofPayment": null,
-        "Latitude": "47.459352",
+        "Latitude": "47.4593524",
         "Longitude": "-114.8836654",
-        "ObjectId": 918
+        "ObjectId": 919
       }
     },
     {
@@ -18182,9 +18204,9 @@
         "Fund": null,
         "City": "Plentywood",
         "DateofPayment": null,
-        "Latitude": "48.779000",
+        "Latitude": "48.779",
         "Longitude": "-104.558",
-        "ObjectId": 1225
+        "ObjectId": 1226
       }
     },
     {
@@ -18204,9 +18226,9 @@
         "Fund": null,
         "City": "Plentywood",
         "DateofPayment": null,
-        "Latitude": "48.779000",
+        "Latitude": "48.779",
         "Longitude": "-104.558",
-        "ObjectId": 1226
+        "ObjectId": 1227
       }
     },
     {
@@ -18228,7 +18250,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 775
+        "ObjectId": 776
       }
     },
     {
@@ -18250,7 +18272,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 930
+        "ObjectId": 931
       }
     },
     {
@@ -18272,7 +18294,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 936
+        "ObjectId": 937
       }
     },
     {
@@ -18294,7 +18316,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 928
+        "ObjectId": 929
       }
     },
     {
@@ -18316,7 +18338,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 931
+        "ObjectId": 932
       }
     },
     {
@@ -18338,7 +18360,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 937
+        "ObjectId": 938
       }
     },
     {
@@ -18360,7 +18382,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 932
+        "ObjectId": 933
       }
     },
     {
@@ -18382,7 +18404,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 938
+        "ObjectId": 939
       }
     },
     {
@@ -18404,7 +18426,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 933
+        "ObjectId": 934
       }
     },
     {
@@ -18426,7 +18448,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 939
+        "ObjectId": 940
       }
     },
     {
@@ -18448,7 +18470,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 934
+        "ObjectId": 935
       }
     },
     {
@@ -18470,7 +18492,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 940
+        "ObjectId": 941
       }
     },
     {
@@ -18492,7 +18514,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 929
+        "ObjectId": 930
       }
     },
     {
@@ -18514,7 +18536,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 935
+        "ObjectId": 936
       }
     },
     {
@@ -18536,7 +18558,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 941
+        "ObjectId": 942
       }
     },
     {
@@ -18547,18 +18569,18 @@
         "Shape__Length": 417173.72706856,
         "Unique_ID": "DNRC_RRG_3422119",
         "OrganizationName": "Pondera County Conservation District",
-        "County": "PONDERA",
+        "County": "Pondera",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
         "ProgramName": "Renewable Resource Grant and Loan Program",
         "Subclass": 54040,
         "Fund": 3920,
-        "City": "CONRAD",
+        "City": "Conrad",
         "DateofPayment": null,
         "Latitude": "48.23885",
         "Longitude": "-112.38795",
-        "ObjectId": 942
+        "ObjectId": 943
       }
     },
     {
@@ -18580,7 +18602,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 923
+        "ObjectId": 924
       }
     },
     {
@@ -18602,7 +18624,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 952
+        "ObjectId": 953
       }
     },
     {
@@ -18822,7 +18844,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 588
+        "ObjectId": 589
       }
     },
     {
@@ -18844,7 +18866,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 595
+        "ObjectId": 596
       }
     },
     {
@@ -18866,7 +18888,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 587
+        "ObjectId": 588
       }
     },
     {
@@ -18888,7 +18910,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 589
+        "ObjectId": 590
       }
     },
     {
@@ -18910,7 +18932,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 596
+        "ObjectId": 597
       }
     },
     {
@@ -18932,7 +18954,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 590
+        "ObjectId": 591
       }
     },
     {
@@ -18954,7 +18976,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 597
+        "ObjectId": 598
       }
     },
     {
@@ -18976,7 +18998,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 591
+        "ObjectId": 592
       }
     },
     {
@@ -18998,7 +19020,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 598
+        "ObjectId": 599
       }
     },
     {
@@ -19020,7 +19042,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 592
+        "ObjectId": 593
       }
     },
     {
@@ -19042,7 +19064,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 599
+        "ObjectId": 600
       }
     },
     {
@@ -19064,7 +19086,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 593
+        "ObjectId": 594
       }
     },
     {
@@ -19086,7 +19108,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 600
+        "ObjectId": 601
       }
     },
     {
@@ -19108,7 +19130,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 594
+        "ObjectId": 595
       }
     },
     {
@@ -19130,7 +19152,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 601
+        "ObjectId": 602
       }
     },
     {
@@ -19150,9 +19172,9 @@
         "Fund": null,
         "City": "Power",
         "DateofPayment": null,
-        "Latitude": "47.715326",
+        "Latitude": "47.71532566",
         "Longitude": "-111.6861775",
-        "ObjectId": 849
+        "ObjectId": 850
       }
     },
     {
@@ -19172,9 +19194,9 @@
         "Fund": null,
         "City": "Power",
         "DateofPayment": null,
-        "Latitude": "47.720000",
+        "Latitude": "47.72",
         "Longitude": "-111.69",
-        "ObjectId": 850
+        "ObjectId": 851
       }
     },
     {
@@ -19196,7 +19218,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 525
+        "ObjectId": 526
       }
     },
     {
@@ -19218,7 +19240,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 524
+        "ObjectId": 525
       }
     },
     {
@@ -19240,7 +19262,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 526
+        "ObjectId": 527
       }
     },
     {
@@ -19262,7 +19284,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 527
+        "ObjectId": 528
       }
     },
     {
@@ -19284,7 +19306,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 521
+        "ObjectId": 522
       }
     },
     {
@@ -19810,7 +19832,7 @@
         "Fund": null,
         "City": "Red Lodge",
         "DateofPayment": null,
-        "Latitude": "45.186690",
+        "Latitude": "45.18669037",
         "Longitude": "-109.246072",
         "ObjectId": 34
       }
@@ -20362,7 +20384,7 @@
         "DateofPayment": 1627603200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 510
+        "ObjectId": 511
       }
     },
     {
@@ -20384,7 +20406,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 523
+        "ObjectId": 524
       }
     },
     {
@@ -20406,7 +20428,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 531
+        "ObjectId": 532
       }
     },
     {
@@ -20428,7 +20450,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 548
+        "ObjectId": 549
       }
     },
     {
@@ -20450,7 +20472,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 555
+        "ObjectId": 556
       }
     },
     {
@@ -20472,7 +20494,7 @@
         "DateofPayment": 1627603200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 564
+        "ObjectId": 565
       }
     },
     {
@@ -20494,7 +20516,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 585
+        "ObjectId": 586
       }
     },
     {
@@ -20516,7 +20538,7 @@
         "DateofPayment": 1627603200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 605
+        "ObjectId": 606
       }
     },
     {
@@ -20538,7 +20560,7 @@
         "DateofPayment": 1627603200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 651
+        "ObjectId": 652
       }
     },
     {
@@ -20560,7 +20582,7 @@
         "DateofPayment": 1627603200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 694
+        "ObjectId": 695
       }
     },
     {
@@ -20582,7 +20604,7 @@
         "DateofPayment": 1627603200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 724
+        "ObjectId": 725
       }
     },
     {
@@ -20604,7 +20626,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 762
+        "ObjectId": 763
       }
     },
     {
@@ -20626,7 +20648,7 @@
         "DateofPayment": 1627603200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 774
+        "ObjectId": 775
       }
     },
     {
@@ -20648,7 +20670,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 816
+        "ObjectId": 817
       }
     },
     {
@@ -20670,7 +20692,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 829
+        "ObjectId": 830
       }
     },
     {
@@ -20692,7 +20714,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 860
+        "ObjectId": 861
       }
     },
     {
@@ -20714,7 +20736,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 892
+        "ObjectId": 893
       }
     },
     {
@@ -20736,7 +20758,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 927
+        "ObjectId": 928
       }
     },
     {
@@ -20758,7 +20780,7 @@
         "DateofPayment": 1627603200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 950
+        "ObjectId": 951
       }
     },
     {
@@ -20780,7 +20802,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 978
+        "ObjectId": 979
       }
     },
     {
@@ -20802,7 +20824,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1004
+        "ObjectId": 1005
       }
     },
     {
@@ -20824,7 +20846,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1026
+        "ObjectId": 1027
       }
     },
     {
@@ -20846,7 +20868,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1042
+        "ObjectId": 1043
       }
     },
     {
@@ -20868,7 +20890,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1066
+        "ObjectId": 1067
       }
     },
     {
@@ -20890,7 +20912,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1087
+        "ObjectId": 1088
       }
     },
     {
@@ -20912,7 +20934,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1113
+        "ObjectId": 1114
       }
     },
     {
@@ -20934,7 +20956,7 @@
         "DateofPayment": 1627603200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1124
+        "ObjectId": 1125
       }
     },
     {
@@ -20956,7 +20978,7 @@
         "DateofPayment": 1627603200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1143
+        "ObjectId": 1144
       }
     },
     {
@@ -20978,7 +21000,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1206
+        "ObjectId": 1207
       }
     },
     {
@@ -21000,7 +21022,7 @@
         "DateofPayment": 1627603200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1231
+        "ObjectId": 1232
       }
     },
     {
@@ -21022,7 +21044,7 @@
         "DateofPayment": 1627603200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1261
+        "ObjectId": 1262
       }
     },
     {
@@ -21044,7 +21066,7 @@
         "DateofPayment": 1627603200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1279
+        "ObjectId": 1280
       }
     },
     {
@@ -21055,7 +21077,7 @@
         "Shape__Length": 376228.067377593,
         "Unique_ID": "DNRC_RRG_3422175",
         "OrganizationName": "Richey, Town of",
-        "County": "Dawson ",
+        "County": "Dawson",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -21066,7 +21088,7 @@
         "DateofPayment": null,
         "Latitude": "47.6439 ",
         "Longitude": "-105.0683",
-        "ObjectId": 1275
+        "ObjectId": 1276
       }
     },
     {
@@ -21086,9 +21108,9 @@
         "Fund": null,
         "City": "Richey",
         "DateofPayment": null,
-        "Latitude": "47.645000",
+        "Latitude": "47.645",
         "Longitude": "-105.069",
-        "ObjectId": 1276
+        "ObjectId": 1277
       }
     },
     {
@@ -21110,7 +21132,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1285
+        "ObjectId": 1286
       }
     },
     {
@@ -21132,7 +21154,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1290
+        "ObjectId": 1291
       }
     },
     {
@@ -21154,7 +21176,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1283
+        "ObjectId": 1284
       }
     },
     {
@@ -21176,7 +21198,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1286
+        "ObjectId": 1287
       }
     },
     {
@@ -21198,7 +21220,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1291
+        "ObjectId": 1292
       }
     },
     {
@@ -21220,7 +21242,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1287
+        "ObjectId": 1288
       }
     },
     {
@@ -21242,7 +21264,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1292
+        "ObjectId": 1293
       }
     },
     {
@@ -21264,7 +21286,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1288
+        "ObjectId": 1289
       }
     },
     {
@@ -21286,7 +21308,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1293
+        "ObjectId": 1294
       }
     },
     {
@@ -21308,7 +21330,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1284
+        "ObjectId": 1285
       }
     },
     {
@@ -21330,7 +21352,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1289
+        "ObjectId": 1290
       }
     },
     {
@@ -21352,7 +21374,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1294
+        "ObjectId": 1295
       }
     },
     {
@@ -21374,7 +21396,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 608
+        "ObjectId": 609
       }
     },
     {
@@ -21396,7 +21418,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 727
+        "ObjectId": 728
       }
     },
     {
@@ -21416,9 +21438,9 @@
         "Fund": null,
         "City": "Ronan",
         "DateofPayment": null,
-        "Latitude": "47.528446",
+        "Latitude": "47.52844646",
         "Longitude": "-114.1003944",
-        "ObjectId": 812
+        "ObjectId": 813
       }
     },
     {
@@ -21440,7 +21462,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 960
+        "ObjectId": 961
       }
     },
     {
@@ -21462,7 +21484,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 966
+        "ObjectId": 967
       }
     },
     {
@@ -21484,7 +21506,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 961
+        "ObjectId": 962
       }
     },
     {
@@ -21506,7 +21528,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 967
+        "ObjectId": 968
       }
     },
     {
@@ -21528,7 +21550,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 957
+        "ObjectId": 958
       }
     },
     {
@@ -21550,7 +21572,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 962
+        "ObjectId": 963
       }
     },
     {
@@ -21572,7 +21594,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 968
+        "ObjectId": 969
       }
     },
     {
@@ -21594,7 +21616,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 963
+        "ObjectId": 964
       }
     },
     {
@@ -21616,7 +21638,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 969
+        "ObjectId": 970
       }
     },
     {
@@ -21638,7 +21660,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 958
+        "ObjectId": 959
       }
     },
     {
@@ -21660,7 +21682,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 964
+        "ObjectId": 965
       }
     },
     {
@@ -21682,7 +21704,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 970
+        "ObjectId": 971
       }
     },
     {
@@ -21704,7 +21726,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 959
+        "ObjectId": 960
       }
     },
     {
@@ -21726,7 +21748,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 965
+        "ObjectId": 966
       }
     },
     {
@@ -21748,7 +21770,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 971
+        "ObjectId": 972
       }
     },
     {
@@ -21770,7 +21792,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 951
+        "ObjectId": 952
       }
     },
     {
@@ -22243,7 +22265,7 @@
         "Shape__Length": 343259.987142224,
         "Unique_ID": "DNRC_RRG_3422148",
         "OrganizationName": "Roundup, City of",
-        "County": "Musselshell ",
+        "County": "Musselshell",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -22252,7 +22274,7 @@
         "Fund": 3920,
         "City": "Roundup ",
         "DateofPayment": null,
-        "Latitude": "46.445200",
+        "Latitude": "46.4452",
         "Longitude": "-108.5418",
         "ObjectId": 432
       }
@@ -22274,7 +22296,7 @@
         "Fund": null,
         "City": "Roundup",
         "DateofPayment": null,
-        "Latitude": "46.449000",
+        "Latitude": "46.449",
         "Longitude": "-108.542",
         "ObjectId": 434
       }
@@ -22318,9 +22340,9 @@
         "Fund": null,
         "City": "Saco",
         "DateofPayment": null,
-        "Latitude": "48.457330",
+        "Latitude": "48.45733",
         "Longitude": "-107.341745",
-        "ObjectId": 1058
+        "ObjectId": 1059
       }
     },
     {
@@ -22342,7 +22364,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 897
+        "ObjectId": 898
       }
     },
     {
@@ -22364,7 +22386,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 907
+        "ObjectId": 908
       }
     },
     {
@@ -22386,7 +22408,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 898
+        "ObjectId": 899
       }
     },
     {
@@ -22408,7 +22430,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 908
+        "ObjectId": 909
       }
     },
     {
@@ -22430,7 +22452,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 893
+        "ObjectId": 894
       }
     },
     {
@@ -22452,7 +22474,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 899
+        "ObjectId": 900
       }
     },
     {
@@ -22474,7 +22496,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 909
+        "ObjectId": 910
       }
     },
     {
@@ -22496,7 +22518,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 900
+        "ObjectId": 901
       }
     },
     {
@@ -22518,7 +22540,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 910
+        "ObjectId": 911
       }
     },
     {
@@ -22540,7 +22562,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 901
+        "ObjectId": 902
       }
     },
     {
@@ -22562,7 +22584,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 911
+        "ObjectId": 912
       }
     },
     {
@@ -22584,7 +22606,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 902
+        "ObjectId": 903
       }
     },
     {
@@ -22606,7 +22628,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 912
+        "ObjectId": 913
       }
     },
     {
@@ -22628,7 +22650,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 903
+        "ObjectId": 904
       }
     },
     {
@@ -22650,7 +22672,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 913
+        "ObjectId": 914
       }
     },
     {
@@ -22672,7 +22694,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 894
+        "ObjectId": 895
       }
     },
     {
@@ -22694,7 +22716,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 904
+        "ObjectId": 905
       }
     },
     {
@@ -22716,7 +22738,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 914
+        "ObjectId": 915
       }
     },
     {
@@ -22738,7 +22760,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 895
+        "ObjectId": 896
       }
     },
     {
@@ -22760,7 +22782,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 905
+        "ObjectId": 906
       }
     },
     {
@@ -22782,7 +22804,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 915
+        "ObjectId": 916
       }
     },
     {
@@ -22804,7 +22826,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 896
+        "ObjectId": 897
       }
     },
     {
@@ -22826,7 +22848,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 906
+        "ObjectId": 907
       }
     },
     {
@@ -22848,7 +22870,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 916
+        "ObjectId": 917
       }
     },
     {
@@ -22868,9 +22890,9 @@
         "Fund": null,
         "City": "Paradise",
         "DateofPayment": null,
-        "Latitude": "47.389000",
+        "Latitude": "47.389",
         "Longitude": "-114.802",
-        "ObjectId": 919
+        "ObjectId": 920
       }
     },
     {
@@ -22881,18 +22903,18 @@
         "Shape__Length": 390929.287931394,
         "Unique_ID": "DNRC_RRG_3422172",
         "OrganizationName": "Savage Public Schools",
-        "County": "RICHLAND",
+        "County": "Richland",
         "AmountAwarded": 250000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
         "ProgramName": "Renewable Resource Grant and Loan Program",
         "Subclass": 54040,
         "Fund": 3920,
-        "City": "SAVAGE",
+        "City": "Savage",
         "DateofPayment": null,
         "Latitude": "47.451198",
         "Longitude": "-104.34394",
-        "ObjectId": 1296
+        "ObjectId": 1297
       }
     },
     {
@@ -22903,7 +22925,7 @@
         "Shape__Length": 321237.867737998,
         "Unique_ID": "DNRC_RRG_3422136",
         "OrganizationName": "Shelby, City of",
-        "County": "Toole ",
+        "County": "Toole",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -22912,9 +22934,9 @@
         "Fund": 3920,
         "City": "Shelby",
         "DateofPayment": null,
-        "Latitude": "48.532440",
+        "Latitude": "48.53244",
         "Longitude": "-111.8619",
-        "ObjectId": 1078
+        "ObjectId": 1079
       }
     },
     {
@@ -22934,9 +22956,9 @@
         "Fund": null,
         "City": "Shelby",
         "DateofPayment": null,
-        "Latitude": "48.506678",
+        "Latitude": "48.50667794",
         "Longitude": "-111.8610892",
-        "ObjectId": 1079
+        "ObjectId": 1080
       }
     },
     {
@@ -22956,9 +22978,9 @@
         "Fund": null,
         "City": "Shelby",
         "DateofPayment": null,
-        "Latitude": "48.537475",
+        "Latitude": "48.5374752",
         "Longitude": "-111.8628166",
-        "ObjectId": 1080
+        "ObjectId": 1081
       }
     },
     {
@@ -22980,7 +23002,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1208
+        "ObjectId": 1209
       }
     },
     {
@@ -23002,7 +23024,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1209
+        "ObjectId": 1210
       }
     },
     {
@@ -23024,7 +23046,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1218
+        "ObjectId": 1219
       }
     },
     {
@@ -23046,7 +23068,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1210
+        "ObjectId": 1211
       }
     },
     {
@@ -23068,7 +23090,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1219
+        "ObjectId": 1220
       }
     },
     {
@@ -23090,7 +23112,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1211
+        "ObjectId": 1212
       }
     },
     {
@@ -23112,7 +23134,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1220
+        "ObjectId": 1221
       }
     },
     {
@@ -23134,7 +23156,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1212
+        "ObjectId": 1213
       }
     },
     {
@@ -23156,7 +23178,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1221
+        "ObjectId": 1222
       }
     },
     {
@@ -23178,7 +23200,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1207
+        "ObjectId": 1208
       }
     },
     {
@@ -23200,7 +23222,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1213
+        "ObjectId": 1214
       }
     },
     {
@@ -23222,7 +23244,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1222
+        "ObjectId": 1223
       }
     },
     {
@@ -23244,7 +23266,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1214
+        "ObjectId": 1215
       }
     },
     {
@@ -23266,7 +23288,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1215
+        "ObjectId": 1216
       }
     },
     {
@@ -23288,7 +23310,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1216
+        "ObjectId": 1217
       }
     },
     {
@@ -23310,7 +23332,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1223
+        "ObjectId": 1224
       }
     },
     {
@@ -23332,7 +23354,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1217
+        "ObjectId": 1218
       }
     },
     {
@@ -23354,7 +23376,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1224
+        "ObjectId": 1225
       }
     },
     {
@@ -23376,7 +23398,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1204
+        "ObjectId": 1205
       }
     },
     {
@@ -23398,7 +23420,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1280
+        "ObjectId": 1281
       }
     },
     {
@@ -23420,7 +23442,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1281
+        "ObjectId": 1282
       }
     },
     {
@@ -23662,7 +23684,7 @@
         "DateofPayment": null,
         "Latitude": "47.490978",
         "Longitude": "-111.915079",
-        "ObjectId": 687
+        "ObjectId": 688
       }
     },
     {
@@ -23706,7 +23728,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 776
+        "ObjectId": 777
       }
     },
     {
@@ -23728,7 +23750,7 @@
         "DateofPayment": null,
         "Latitude": "48.4022458",
         "Longitude": "-106.5328157",
-        "ObjectId": 1088
+        "ObjectId": 1089
       }
     },
     {
@@ -23739,7 +23761,7 @@
         "Shape__Length": 405354.838934765,
         "Unique_ID": "DNRC_RRG_3422143",
         "OrganizationName": "Stillwater Conservation District",
-        "County": "Stillwater ",
+        "County": "Stillwater",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -24168,7 +24190,7 @@
         "DateofPayment": null,
         "Latitude": "47.5369026",
         "Longitude": "-111.4813608",
-        "ObjectId": 657
+        "ObjectId": 658
       }
     },
     {
@@ -24188,9 +24210,9 @@
         "Fund": null,
         "City": "Great Falls",
         "DateofPayment": null,
-        "Latitude": "47.547300",
+        "Latitude": "47.5473",
         "Longitude": "-111.5",
-        "ObjectId": 688
+        "ObjectId": 689
       }
     },
     {
@@ -24210,9 +24232,9 @@
         "Fund": null,
         "City": "Missoula",
         "DateofPayment": null,
-        "Latitude": "46.885000",
+        "Latitude": "46.885",
         "Longitude": "-113.935",
-        "ObjectId": 647
+        "ObjectId": 648
       }
     },
     {
@@ -24232,9 +24254,9 @@
         "Fund": null,
         "City": "Superior",
         "DateofPayment": null,
-        "Latitude": "47.193700",
+        "Latitude": "47.1937",
         "Longitude": "-114.891",
-        "ObjectId": 582
+        "ObjectId": 583
       }
     },
     {
@@ -24355,7 +24377,7 @@
         "Shape__Length": 370238.909233869,
         "Unique_ID": "DNRC_RRG_3422172",
         "OrganizationName": "Sweet Grass County Conservation District",
-        "County": "Sweet Grass ",
+        "County": "Sweet Grass",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -24388,7 +24410,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1002
+        "ObjectId": 1003
       }
     },
     {
@@ -24399,7 +24421,7 @@
         "Shape__Length": 648479.592804696,
         "Unique_ID": "DNRC_RRG_322150",
         "OrganizationName": "Ten Mile/Pleasant Valley Sewer District",
-        "County": "Lewis and Clark ",
+        "County": "Lewis and Clark",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -24408,9 +24430,9 @@
         "Fund": 3920,
         "City": "Helena",
         "DateofPayment": null,
-        "Latitude": "46.589100",
+        "Latitude": "46.5891",
         "Longitude": "-112.0391",
-        "ObjectId": 751
+        "ObjectId": 752
       }
     },
     {
@@ -24430,9 +24452,9 @@
         "Fund": null,
         "City": "Terry",
         "DateofPayment": null,
-        "Latitude": "46.791739",
+        "Latitude": "46.79173884",
         "Longitude": "-105.3129526",
-        "ObjectId": 528
+        "ObjectId": 529
       }
     },
     {
@@ -24443,18 +24465,18 @@
         "Shape__Length": 419512.162796588,
         "Unique_ID": "DNRC_RRG_3422120",
         "OrganizationName": "Teton Conservation District",
-        "County": "TETON",
+        "County": "Teton",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
         "ProgramName": "Renewable Resource Grant and Loan Program",
         "Subclass": 54040,
         "Fund": 3920,
-        "City": "CHOTEAU",
+        "City": "Choteau",
         "DateofPayment": null,
         "Latitude": "47.87843",
         "Longitude": "-112.31777",
-        "ObjectId": 847
+        "ObjectId": 848
       }
     },
     {
@@ -24476,7 +24498,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 834
+        "ObjectId": 835
       }
     },
     {
@@ -24498,7 +24520,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 832
+        "ObjectId": 833
       }
     },
     {
@@ -24520,7 +24542,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 835
+        "ObjectId": 836
       }
     },
     {
@@ -24542,7 +24564,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 840
+        "ObjectId": 841
       }
     },
     {
@@ -24564,7 +24586,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 836
+        "ObjectId": 837
       }
     },
     {
@@ -24586,7 +24608,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 841
+        "ObjectId": 842
       }
     },
     {
@@ -24608,7 +24630,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 833
+        "ObjectId": 834
       }
     },
     {
@@ -24630,7 +24652,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 837
+        "ObjectId": 838
       }
     },
     {
@@ -24652,7 +24674,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 842
+        "ObjectId": 843
       }
     },
     {
@@ -24674,7 +24696,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 838
+        "ObjectId": 839
       }
     },
     {
@@ -24696,7 +24718,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 839
+        "ObjectId": 840
       }
     },
     {
@@ -24718,7 +24740,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 843
+        "ObjectId": 844
       }
     },
     {
@@ -24740,7 +24762,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 924
+        "ObjectId": 925
       }
     },
     {
@@ -24806,7 +24828,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 606
+        "ObjectId": 607
       }
     },
     {
@@ -24817,7 +24839,7 @@
         "Shape__Length": 612742.269588047,
         "Unique_ID": "DNRC_RRG_3422116",
         "OrganizationName": "Thompson Falls, City of",
-        "County": "Sanders ",
+        "County": "Sanders",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -24826,9 +24848,9 @@
         "Fund": 3920,
         "City": "Thompson Falls",
         "DateofPayment": null,
-        "Latitude": "47.360310",
+        "Latitude": "47.36031",
         "Longitude": "-115.2205",
-        "ObjectId": 917
+        "ObjectId": 918
       }
     },
     {
@@ -24848,9 +24870,9 @@
         "Fund": null,
         "City": "Thompson Falls",
         "DateofPayment": null,
-        "Latitude": "47.596963",
+        "Latitude": "47.59696269",
         "Longitude": "-115.3394877",
-        "ObjectId": 920
+        "ObjectId": 921
       }
     },
     {
@@ -24861,7 +24883,7 @@
         "Shape__Length": 542863.248960951,
         "Unique_ID": "DNRC_RRG_3422168",
         "OrganizationName": "Three Forks, City of ",
-        "County": "Gallatin ",
+        "County": "Gallatin",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -24870,7 +24892,7 @@
         "Fund": 3920,
         "City": "Three Forks",
         "DateofPayment": null,
-        "Latitude": "45.533200",
+        "Latitude": "45.5332",
         "Longitude": "-111.3308",
         "ObjectId": 226
       }
@@ -24916,7 +24938,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1069
+        "ObjectId": 1070
       }
     },
     {
@@ -24938,7 +24960,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1070
+        "ObjectId": 1071
       }
     },
     {
@@ -24960,7 +24982,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1074
+        "ObjectId": 1075
       }
     },
     {
@@ -24982,7 +25004,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1071
+        "ObjectId": 1072
       }
     },
     {
@@ -25004,7 +25026,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1075
+        "ObjectId": 1076
       }
     },
     {
@@ -25026,7 +25048,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1067
+        "ObjectId": 1068
       }
     },
     {
@@ -25048,7 +25070,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1072
+        "ObjectId": 1073
       }
     },
     {
@@ -25070,7 +25092,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1076
+        "ObjectId": 1077
       }
     },
     {
@@ -25092,7 +25114,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1068
+        "ObjectId": 1069
       }
     },
     {
@@ -25114,7 +25136,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1073
+        "ObjectId": 1074
       }
     },
     {
@@ -25136,7 +25158,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1077
+        "ObjectId": 1078
       }
     },
     {
@@ -25158,7 +25180,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 563
+        "ObjectId": 564
       }
     },
     {
@@ -25180,7 +25202,7 @@
         "DateofPayment": null,
         "Latitude": "47.0015869",
         "Longitude": "-114.4734549",
-        "ObjectId": 567
+        "ObjectId": 568
       }
     },
     {
@@ -25202,7 +25224,7 @@
         "DateofPayment": 1624255200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 947
+        "ObjectId": 948
       }
     },
     {
@@ -25246,7 +25268,7 @@
         "DateofPayment": 1624514400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 649
+        "ObjectId": 650
       }
     },
     {
@@ -25268,7 +25290,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 851
+        "ObjectId": 852
       }
     },
     {
@@ -25290,7 +25312,7 @@
         "DateofPayment": null,
         "Latitude": "48.1788692",
         "Longitude": "-110.1135412",
-        "ObjectId": 858
+        "ObjectId": 859
       }
     },
     {
@@ -25378,7 +25400,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 650
+        "ObjectId": 651
       }
     },
     {
@@ -25400,7 +25422,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1024
+        "ObjectId": 1025
       }
     },
     {
@@ -25422,7 +25444,7 @@
         "DateofPayment": 1623650400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 813
+        "ObjectId": 814
       }
     },
     {
@@ -25444,7 +25466,7 @@
         "DateofPayment": null,
         "Latitude": "47.416417",
         "Longitude": "-105.588264",
-        "ObjectId": 815
+        "ObjectId": 816
       }
     },
     {
@@ -25510,7 +25532,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 948
+        "ObjectId": 949
       }
     },
     {
@@ -25576,7 +25598,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 692
+        "ObjectId": 693
       }
     },
     {
@@ -25598,7 +25620,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1038
+        "ObjectId": 1039
       }
     },
     {
@@ -25642,7 +25664,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 826
+        "ObjectId": 827
       }
     },
     {
@@ -25730,7 +25752,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1230
+        "ObjectId": 1231
       }
     },
     {
@@ -25752,7 +25774,7 @@
         "DateofPayment": 1623736800000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 827
+        "ObjectId": 828
       }
     },
     {
@@ -25774,7 +25796,7 @@
         "DateofPayment": null,
         "Latitude": "47.6146733",
         "Longitude": "-111.9802785",
-        "ObjectId": 830
+        "ObjectId": 831
       }
     },
     {
@@ -25796,7 +25818,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1278
+        "ObjectId": 1279
       }
     },
     {
@@ -25818,7 +25840,7 @@
         "DateofPayment": 1624255200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1110
+        "ObjectId": 1111
       }
     },
     {
@@ -25840,7 +25862,7 @@
         "DateofPayment": null,
         "Latitude": "48.8039142",
         "Longitude": "-105.1727604",
-        "ObjectId": 1112
+        "ObjectId": 1113
       }
     },
     {
@@ -25862,7 +25884,7 @@
         "DateofPayment": 1623650400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1083
+        "ObjectId": 1084
       }
     },
     {
@@ -25884,7 +25906,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 949
+        "ObjectId": 950
       }
     },
     {
@@ -25928,7 +25950,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 853
+        "ObjectId": 854
       }
     },
     {
@@ -25950,7 +25972,7 @@
         "DateofPayment": 1624255200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 693
+        "ObjectId": 694
       }
     },
     {
@@ -25972,7 +25994,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 975
+        "ObjectId": 976
       }
     },
     {
@@ -25994,7 +26016,7 @@
         "DateofPayment": 1623909600000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 530
+        "ObjectId": 531
       }
     },
     {
@@ -26016,7 +26038,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 886
+        "ObjectId": 887
       }
     },
     {
@@ -26104,7 +26126,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 759
+        "ObjectId": 760
       }
     },
     {
@@ -26126,7 +26148,7 @@
         "DateofPayment": 1623650400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1059
+        "ObjectId": 1060
       }
     },
     {
@@ -26258,7 +26280,7 @@
         "DateofPayment": 1623909600000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1200
+        "ObjectId": 1201
       }
     },
     {
@@ -26302,7 +26324,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 690
+        "ObjectId": 691
       }
     },
     {
@@ -26324,7 +26346,7 @@
         "DateofPayment": 1624946400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1081
+        "ObjectId": 1082
       }
     },
     {
@@ -26346,7 +26368,7 @@
         "DateofPayment": 1623909600000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 648
+        "ObjectId": 649
       }
     },
     {
@@ -26368,7 +26390,7 @@
         "DateofPayment": 1623996000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1082
+        "ObjectId": 1083
       }
     },
     {
@@ -26390,7 +26412,7 @@
         "DateofPayment": 1624860000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1201
+        "ObjectId": 1202
       }
     },
     {
@@ -26478,7 +26500,7 @@
         "DateofPayment": 1623736800000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 884
+        "ObjectId": 885
       }
     },
     {
@@ -26522,7 +26544,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1228
+        "ObjectId": 1229
       }
     },
     {
@@ -26544,7 +26566,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1259
+        "ObjectId": 1260
       }
     },
     {
@@ -26566,7 +26588,7 @@
         "DateofPayment": null,
         "Latitude": "47.6438767",
         "Longitude": "-105.0682572",
-        "ObjectId": 1266
+        "ObjectId": 1267
       }
     },
     {
@@ -26610,7 +26632,7 @@
         "DateofPayment": 1623650400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1037
+        "ObjectId": 1038
       }
     },
     {
@@ -26654,7 +26676,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 773
+        "ObjectId": 774
       }
     },
     {
@@ -26676,7 +26698,7 @@
         "DateofPayment": 1624341600000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 529
+        "ObjectId": 530
       }
     },
     {
@@ -26720,7 +26742,7 @@
         "DateofPayment": 1623909600000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1061
+        "ObjectId": 1062
       }
     },
     {
@@ -26742,7 +26764,7 @@
         "DateofPayment": null,
         "Latitude": "48.8832031",
         "Longitude": "-111.910518",
-        "ObjectId": 1065
+        "ObjectId": 1066
       }
     },
     {
@@ -26764,7 +26786,7 @@
         "DateofPayment": 1623391200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 562
+        "ObjectId": 563
       }
     },
     {
@@ -26808,7 +26830,7 @@
         "DateofPayment": 1623996000000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 921
+        "ObjectId": 922
       }
     },
     {
@@ -26830,7 +26852,7 @@
         "DateofPayment": null,
         "Latitude": "48.307754",
         "Longitude": "-112.2497602",
-        "ObjectId": 926
+        "ObjectId": 927
       }
     },
     {
@@ -26918,7 +26940,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1203
+        "ObjectId": 1204
       }
     },
     {
@@ -26962,7 +26984,7 @@
         "DateofPayment": 1623736800000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 545
+        "ObjectId": 546
       }
     },
     {
@@ -26984,7 +27006,7 @@
         "DateofPayment": 1623650400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 691
+        "ObjectId": 692
       }
     },
     {
@@ -27006,7 +27028,7 @@
         "DateofPayment": 1623823200000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 552
+        "ObjectId": 553
       }
     },
     {
@@ -27028,7 +27050,7 @@
         "DateofPayment": null,
         "Latitude": "47.002759",
         "Longitude": "-108.3520716",
-        "ObjectId": 554
+        "ObjectId": 555
       }
     },
     {
@@ -27138,7 +27160,7 @@
         "DateofPayment": null,
         "Latitude": "47.877019",
         "Longitude": "-114.033282",
-        "ObjectId": 779
+        "ObjectId": 780
       }
     },
     {
@@ -27149,7 +27171,7 @@
         "Shape__Length": 417173.72706856,
         "Unique_ID": "DNRC_RRG_3422125",
         "OrganizationName": "Valier, Town of ",
-        "County": "Pondera ",
+        "County": "Pondera",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -27158,9 +27180,9 @@
         "Fund": 3920,
         "City": "Valier",
         "DateofPayment": null,
-        "Latitude": "48.311090",
+        "Latitude": "48.31109",
         "Longitude": "-112.25",
-        "ObjectId": 943
+        "ObjectId": 944
       }
     },
     {
@@ -27180,9 +27202,9 @@
         "Fund": null,
         "City": "Valier",
         "DateofPayment": null,
-        "Latitude": "48.340000",
+        "Latitude": "48.34",
         "Longitude": "-112.3",
-        "ObjectId": 944
+        "ObjectId": 945
       }
     },
     {
@@ -27204,7 +27226,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 697
+        "ObjectId": 698
       }
     },
     {
@@ -27226,7 +27248,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1090
+        "ObjectId": 1091
       }
     },
     {
@@ -27248,7 +27270,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1091
+        "ObjectId": 1092
       }
     },
     {
@@ -27270,7 +27292,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1099
+        "ObjectId": 1100
       }
     },
     {
@@ -27292,7 +27314,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1089
+        "ObjectId": 1090
       }
     },
     {
@@ -27314,7 +27336,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1092
+        "ObjectId": 1093
       }
     },
     {
@@ -27336,7 +27358,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1100
+        "ObjectId": 1101
       }
     },
     {
@@ -27358,7 +27380,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1093
+        "ObjectId": 1094
       }
     },
     {
@@ -27380,7 +27402,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1094
+        "ObjectId": 1095
       }
     },
     {
@@ -27402,7 +27424,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1101
+        "ObjectId": 1102
       }
     },
     {
@@ -27424,7 +27446,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1095
+        "ObjectId": 1096
       }
     },
     {
@@ -27446,7 +27468,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1102
+        "ObjectId": 1103
       }
     },
     {
@@ -27468,7 +27490,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1096
+        "ObjectId": 1097
       }
     },
     {
@@ -27490,7 +27512,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1103
+        "ObjectId": 1104
       }
     },
     {
@@ -27512,7 +27534,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1097
+        "ObjectId": 1098
       }
     },
     {
@@ -27534,7 +27556,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1104
+        "ObjectId": 1105
       }
     },
     {
@@ -27556,7 +27578,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1098
+        "ObjectId": 1099
       }
     },
     {
@@ -27578,7 +27600,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1105
+        "ObjectId": 1106
       }
     },
     {
@@ -27644,7 +27666,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1085
+        "ObjectId": 1086
       }
     },
     {
@@ -27664,7 +27686,7 @@
         "Fund": null,
         "City": "West Yellowstone",
         "DateofPayment": null,
-        "Latitude": "44.669000",
+        "Latitude": "44.669",
         "Longitude": "-111.129",
         "ObjectId": 232
       }
@@ -27886,7 +27908,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 1150
+        "ObjectId": 1151
       }
     },
     {
@@ -27906,7 +27928,7 @@
         "Fund": null,
         "City": "Whitehall",
         "DateofPayment": null,
-        "Latitude": "45.870900",
+        "Latitude": "45.8709",
         "Longitude": "-112.1008",
         "ObjectId": 355
       }
@@ -27930,7 +27952,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 549
+        "ObjectId": 550
       }
     },
     {
@@ -27952,7 +27974,7 @@
         "DateofPayment": null,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 550
+        "ObjectId": 551
       }
     },
     {
@@ -27974,7 +27996,7 @@
         "DateofPayment": 1623110400000,
         "Latitude": null,
         "Longitude": null,
-        "ObjectId": 546
+        "ObjectId": 547
       }
     },
     {
@@ -27994,9 +28016,9 @@
         "Fund": null,
         "City": "Wibaux",
         "DateofPayment": null,
-        "Latitude": "46.980000",
+        "Latitude": "46.98",
         "Longitude": "-104.18",
-        "ObjectId": 551
+        "ObjectId": 552
       }
     },
     {
@@ -28016,7 +28038,7 @@
         "Fund": null,
         "City": "Wilsall",
         "DateofPayment": null,
-        "Latitude": "45.994000",
+        "Latitude": "45.994",
         "Longitude": "-110.66",
         "ObjectId": 193
       }
@@ -28038,9 +28060,9 @@
         "Fund": null,
         "City": "Winifred",
         "DateofPayment": null,
-        "Latitude": "47.560000",
+        "Latitude": "47.56",
         "Longitude": "-109.38",
-        "ObjectId": 721
+        "ObjectId": 722
       }
     },
     {
@@ -28060,9 +28082,9 @@
         "Fund": null,
         "City": "Winnett",
         "DateofPayment": null,
-        "Latitude": "47.003500",
+        "Latitude": "47.0035",
         "Longitude": "-108.3519",
-        "ObjectId": 561
+        "ObjectId": 562
       }
     },
     {
@@ -28073,7 +28095,7 @@
         "Shape__Length": 473377.547989908,
         "Unique_ID": "DNRC_RRG_3422131",
         "OrganizationName": "Wolf Point, City of",
-        "County": "Roosevelt ",
+        "County": "Roosevelt",
         "AmountAwarded": 125000,
         "AmountPaid": 0,
         "AgencyName": "DNRC",
@@ -28082,9 +28104,9 @@
         "Fund": 3920,
         "City": "Wolf Point",
         "DateofPayment": null,
-        "Latitude": "48.090600",
+        "Latitude": "48.0906",
         "Longitude": "-105.6406",
-        "ObjectId": 972
+        "ObjectId": 973
       }
     },
     {
@@ -28104,9 +28126,9 @@
         "Fund": null,
         "City": "Wolf Point",
         "DateofPayment": null,
-        "Latitude": "48.091000",
+        "Latitude": "48.091",
         "Longitude": "-105.641",
-        "ObjectId": 973
+        "ObjectId": 974
       }
     },
     {
@@ -28126,7 +28148,7 @@
         "Fund": null,
         "City": "Worden",
         "DateofPayment": null,
-        "Latitude": "45.959800",
+        "Latitude": "45.9598",
         "Longitude": "-108.163",
         "ObjectId": 330
       }
@@ -28302,7 +28324,7 @@
         "Fund": null,
         "City": "Billings",
         "DateofPayment": null,
-        "Latitude": "45.959800",
+        "Latitude": "45.9598",
         "Longitude": "-108.163",
         "ObjectId": 331
       }
